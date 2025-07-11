@@ -1,0 +1,16 @@
+{
+  "name": "Crochet Glossary API",
+  "description": "Comprehensive crochet terminology and quiz data",
+  "version": "1.0.0",
+  "endpoints": {
+    "glossary.json": "Complete glossary with search index",
+    "terms.json": "Terms only (lighter)",
+    "categories.json": "Terms grouped by category",
+    "quiz.json": "Quiz questions and answers"
+  },
+  "usage": {
+    "base_url": "https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/",
+    "example": "https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/terms.json"
+  },
+  "last_updated": "2025-07-11T01:16:57.313303"
+}
