@@ -1,0 +1,4329 @@
+{
+  "meta": {
+    "total_terms": 253,
+    "categories": [
+      "Basic",
+      "Shaping",
+      "Other",
+      "Foundation",
+      "Texture",
+      "Technique",
+      "Pattern",
+      "Finishing",
+      "Construction",
+      "tunisian",
+      "amigurumi",
+      "modern",
+      "lace",
+      "construction",
+      "colorwork",
+      "pattern",
+      "yarn",
+      "vintage",
+      "tool",
+      "specialty",
+      "garment",
+      "slang",
+      "regional",
+      "mathematical",
+      "embellishment",
+      "finishing",
+      "hybrid",
+      "troubleshooting",
+      "technique",
+      "stitch",
+      "foundation"
+    ],
+    "last_updated": "2025-07-11T01:16:57.278900",
+    "version": "1.0.0"
+  },
+  "data": [
+    {
+      "id": "SN",
+      "name_us": "Slip Knot",
+      "name_uk": "Slip Knot",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "The first loop on the hook to begin any crochet project.",
+      "symbol": "sn",
+      "tags": [
+        "basic",
+        "foundation",
+        "starting"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.277954"
+    },
+    {
+      "id": "CH",
+      "name_us": "Chain Stitch",
+      "name_uk": "Chain Stitch",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Starting point for most crochet projects. Forms the foundation row.",
+      "symbol": "o",
+      "tags": [
+        "basic",
+        "foundation"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.277972"
+    },
+    {
+      "id": "SLST",
+      "name_us": "Slip Stitch",
+      "name_uk": "Slip Stitch",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Used for joining, moving across stitches, or finishing.",
+      "symbol": "-",
+      "tags": [
+        "basic",
+        "joining",
+        "finishing"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.277979"
+    },
+    {
+      "id": "SC",
+      "name_us": "Single Crochet",
+      "name_uk": "Double Crochet",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Foundation stitch, creates tight fabric. Essential for amigurumi.",
+      "symbol": "x",
+      "tags": [
+        "basic",
+        "foundation",
+        "amigurumi"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.277985"
+    },
+    {
+      "id": "HDC",
+      "name_us": "Half Double Crochet",
+      "name_uk": "Half Treble Crochet",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Medium height stitch between single and double crochet.",
+      "symbol": "H",
+      "tags": [
+        "basic",
+        "height"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.277990"
+    },
+    {
+      "id": "DC",
+      "name_us": "Double Crochet",
+      "name_uk": "Treble Crochet",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Taller stitch for height and drape. Very versatile.",
+      "symbol": "T",
+      "tags": [
+        "basic",
+        "height",
+        "drape"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.277995"
+    },
+    {
+      "id": "TR",
+      "name_us": "Treble Crochet",
+      "name_uk": "Double Treble Crochet",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Used for tall rows and lacy, open fabric.",
+      "symbol": "TT",
+      "tags": [
+        "basic",
+        "tall",
+        "lace"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278000"
+    },
+    {
+      "id": "INC",
+      "name_us": "Increase",
+      "name_uk": "Increase",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Adds stitches to widen a row or round.",
+      "symbol": "+",
+      "tags": [
+        "basic",
+        "shaping",
+        "technique"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278005"
+    },
+    {
+      "id": "DEC",
+      "name_us": "Decrease",
+      "name_uk": "Decrease",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Combines stitches together to reduce width.",
+      "symbol": "-dec",
+      "tags": [
+        "basic",
+        "shaping",
+        "technique"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278009"
+    },
+    {
+      "id": "SC2TOG",
+      "name_us": "Single Crochet Two Together",
+      "name_uk": "Double Crochet Two Together",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Combines two single crochet stitches into one.",
+      "symbol": "sc2tog",
+      "tags": [
+        "basic",
+        "decrease",
+        "shaping"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278014"
+    },
+    {
+      "id": "DC2TOG",
+      "name_us": "Double Crochet Two Together",
+      "name_uk": "Treble Crochet Two Together",
+      "category": "Shaping",
+      "difficulty": "3",
+      "description": "Standard decrease technique worked across two stitches.",
+      "symbol": "dc2tog",
+      "tags": [
+        "intermediate",
+        "decrease",
+        "shaping"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278019"
+    },
+    {
+      "id": "INVDEC",
+      "name_us": "Invisible Decrease",
+      "name_uk": "Invisible Decrease",
+      "category": "Other",
+      "difficulty": "3",
+      "description": "A neater, less noticeable single crochet decrease.",
+      "symbol": "invdec",
+      "tags": [
+        "intermediate",
+        "decrease",
+        "amigurumi"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278023"
+    },
+    {
+      "id": "MR",
+      "name_us": "Magic Ring",
+      "name_uk": "Magic Ring",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Adjustable loop technique for starting projects in the round.",
+      "symbol": "mr",
+      "tags": [
+        "basic",
+        "amigurumi",
+        "in-the-round"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278029"
+    },
+    {
+      "id": "FSC",
+      "name_us": "Foundation Single Crochet",
+      "name_uk": "Foundation Double Crochet",
+      "category": "Foundation",
+      "difficulty": "1",
+      "description": "Combines foundation chain and first row in one step.",
+      "symbol": "fsc",
+      "tags": [
+        "advanced",
+        "foundation",
+        "technique"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278034"
+    },
+    {
+      "id": "FHDC",
+      "name_us": "Foundation Half Double Crochet",
+      "name_uk": "Foundation Half Treble",
+      "category": "Foundation",
+      "difficulty": "1",
+      "description": "Combines foundation chain and first row of hdc in one step.",
+      "symbol": "fhdc",
+      "tags": [
+        "advanced",
+        "foundation",
+        "technique"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278039"
+    },
+    {
+      "id": "BLO",
+      "name_us": "Back Loop Only",
+      "name_uk": "Back Loop Only",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Stitch worked only into the back loop for texture effects.",
+      "symbol": "blo",
+      "tags": [
+        "intermediate",
+        "technique",
+        "texture"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278044"
+    },
+    {
+      "id": "FLO",
+      "name_us": "Front Loop Only",
+      "name_uk": "Front Loop Only",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Stitch worked only into the front loop for ribbing effects.",
+      "symbol": "flo",
+      "tags": [
+        "intermediate",
+        "technique",
+        "texture"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278049"
+    },
+    {
+      "id": "FPDC",
+      "name_us": "Front Post Double Crochet",
+      "name_uk": "Front Post Treble Crochet",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Creates raised vertical lines, perfect for ribbing effects.",
+      "symbol": "fpdc",
+      "tags": [
+        "intermediate",
+        "texture",
+        "post-stitch"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278054"
+    },
+    {
+      "id": "BPDC",
+      "name_us": "Back Post Double Crochet",
+      "name_uk": "Back Post Treble Crochet",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Works with FPDC to create dimensional ribbing and cables.",
+      "symbol": "bpdc",
+      "tags": [
+        "intermediate",
+        "texture",
+        "post-stitch"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278060"
+    },
+    {
+      "id": "FPTR",
+      "name_us": "Front Post Treble Crochet",
+      "name_uk": "Front Post Double Treble",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "A tall stitch worked around the post from the front.",
+      "symbol": "fptr",
+      "tags": [
+        "advanced",
+        "post-stitch",
+        "texture"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278065"
+    },
+    {
+      "id": "BPTR",
+      "name_us": "Back Post Treble Crochet",
+      "name_uk": "Back Post Double Treble",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "A tall stitch worked around the post from the back.",
+      "symbol": "bptr",
+      "tags": [
+        "advanced",
+        "post-stitch",
+        "texture"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278071"
+    },
+    {
+      "id": "POP",
+      "name_us": "Popcorn Stitch",
+      "name_uk": "Popcorn Stitch",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Creates a puffed, round shape that stands out from the fabric.",
+      "symbol": "pc",
+      "tags": [
+        "intermediate",
+        "texture",
+        "3D"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278075"
+    },
+    {
+      "id": "BOBBLE",
+      "name_us": "Bobble Stitch",
+      "name_uk": "Bobble Stitch",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Multiple incomplete stitches worked together, then closed.",
+      "symbol": "bo",
+      "tags": [
+        "advanced",
+        "texture",
+        "3D"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278079"
+    },
+    {
+      "id": "PUFF",
+      "name_us": "Puff Stitch",
+      "name_uk": "Puff Stitch",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Creates a soft, puffy texture; different from popcorn.",
+      "symbol": "pf",
+      "tags": [
+        "intermediate",
+        "texture",
+        "3D"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278081"
+    },
+    {
+      "id": "CL",
+      "name_us": "Cluster Stitch",
+      "name_uk": "Cluster Stitch",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Multiple stitches worked into same base, creating dense texture.",
+      "symbol": "cl",
+      "tags": [
+        "intermediate",
+        "texture",
+        "combination"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278084"
+    },
+    {
+      "id": "VST",
+      "name_us": "V-Stitch",
+      "name_uk": "V-Stitch",
+      "category": "Other",
+      "difficulty": "3",
+      "description": "Two stitches worked in the same space, forming a V-shape.",
+      "symbol": "V",
+      "tags": [
+        "intermediate",
+        "pattern",
+        "openwork"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278086"
+    },
+    {
+      "id": "SHELL",
+      "name_us": "Shell Stitch",
+      "name_uk": "Shell Stitch",
+      "category": "Other",
+      "difficulty": "3",
+      "description": "Multiple stitches worked into one space to create a fan shape.",
+      "symbol": "Sh",
+      "tags": [
+        "intermediate",
+        "pattern",
+        "decorative"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278089"
+    },
+    {
+      "id": "GRANNY",
+      "name_us": "Granny Square",
+      "name_uk": "Granny Square",
+      "category": "Other",
+      "difficulty": "3",
+      "description": "A traditional square motif made of clusters and chains.",
+      "symbol": "gs",
+      "tags": [
+        "intermediate",
+        "motif",
+        "traditional"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278092"
+    },
+    {
+      "id": "XST",
+      "name_us": "Crossed Double Crochet",
+      "name_uk": "Crossed Treble Crochet",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Creates a crossed or twisted visual effect.",
+      "symbol": "X",
+      "tags": [
+        "advanced",
+        "texture",
+        "decorative"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278094"
+    },
+    {
+      "id": "SPK",
+      "name_us": "Spike Stitch",
+      "name_uk": "Spike Stitch",
+      "category": "Other",
+      "difficulty": "4",
+      "description": "Inserted into a row below the current one to elongate the effect.",
+      "symbol": "spk",
+      "tags": [
+        "advanced",
+        "decorative",
+        "technique"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278096"
+    },
+    {
+      "id": "EXDC",
+      "name_us": "Extended Double Crochet",
+      "name_uk": "Extended Treble Crochet",
+      "category": "Other",
+      "difficulty": "3",
+      "description": "A slightly taller and looser double crochet stitch.",
+      "symbol": "exdc",
+      "tags": [
+        "intermediate",
+        "height",
+        "technique"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278099"
+    },
+    {
+      "id": "MOSS",
+      "name_us": "Moss Stitch",
+      "name_uk": "Linen Stitch",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Alternating single crochet and chain stitches for texture.",
+      "symbol": "ms",
+      "tags": [
+        "intermediate",
+        "texture",
+        "pattern"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278101"
+    },
+    {
+      "id": "PICOT",
+      "name_us": "Picot Stitch",
+      "name_uk": "Picot Stitch",
+      "category": "Other",
+      "difficulty": "3",
+      "description": "Tiny loops often used to finish borders or create texture.",
+      "symbol": "pi",
+      "tags": [
+        "intermediate",
+        "decorative",
+        "edging"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278104"
+    },
+    {
+      "id": "SOL",
+      "name_us": "Solomon's Knot",
+      "name_uk": "Solomon's Knot",
+      "category": "Other",
+      "difficulty": "4",
+      "description": "Large openwork knot made from elongated chains, also called Lover's Knot.",
+      "symbol": "sol",
+      "tags": [
+        "advanced",
+        "lace",
+        "openwork"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278106"
+    },
+    {
+      "id": "TSS",
+      "name_us": "Tunisian Simple Stitch",
+      "name_uk": "Tunisian Simple Stitch",
+      "category": "Other",
+      "difficulty": "4",
+      "description": "Basic Tunisian stitch worked vertically.",
+      "symbol": "tss",
+      "tags": [
+        "advanced",
+        "tunisian",
+        "technique"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278109"
+    },
+    {
+      "id": "TKS",
+      "name_us": "Tunisian Knit Stitch",
+      "name_uk": "Tunisian Knit Stitch",
+      "category": "Other",
+      "difficulty": "4",
+      "description": "Resembles knitted fabric; pulled through vertical bars.",
+      "symbol": "tks",
+      "tags": [
+        "advanced",
+        "tunisian",
+        "technique"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278111"
+    },
+    {
+      "id": "TPS",
+      "name_us": "Tunisian Purl Stitch",
+      "name_uk": "Tunisian Purl Stitch",
+      "category": "Texture",
+      "difficulty": "3",
+      "description": "Creates a bumpy texture similar to purl in knitting.",
+      "symbol": "tps",
+      "tags": [
+        "advanced",
+        "tunisian",
+        "texture"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278114"
+    },
+    {
+      "id": "TURN",
+      "name_us": "Turning Chain",
+      "name_uk": "Turning Chain",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Used at the start of a new row to bring hook to proper height.",
+      "symbol": "tch",
+      "tags": [
+        "basic",
+        "technique",
+        "foundation"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278116"
+    },
+    {
+      "id": "JOIN",
+      "name_us": "Join with Slip Stitch",
+      "name_uk": "Join with Slip Stitch",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Used to join the end of a round to the beginning.",
+      "symbol": "jsl",
+      "tags": [
+        "basic",
+        "joining",
+        "in-the-round"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278119"
+    },
+    {
+      "id": "FASTEN",
+      "name_us": "Fasten Off",
+      "name_uk": "Fasten Off",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Secures the final stitch and cuts the yarn.",
+      "symbol": "fo",
+      "tags": [
+        "basic",
+        "finishing",
+        "technique"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278121"
+    },
+    {
+      "id": "WW",
+      "name_us": "Worsted Weight",
+      "name_uk": "Aran Weight",
+      "category": "Other",
+      "difficulty": "2",
+      "description": "Medium weight yarn, most common for afghans and sweaters.",
+      "symbol": "4",
+      "tags": [
+        "yarn",
+        "weight",
+        "medium"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278124"
+    },
+    {
+      "id": "DK",
+      "name_us": "DK Weight",
+      "name_uk": "DK Weight",
+      "category": "Other",
+      "difficulty": "2",
+      "description": "Light weight yarn, stands for Double Knitting.",
+      "symbol": "3",
+      "tags": [
+        "yarn",
+        "weight",
+        "light"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278126"
+    },
+    {
+      "id": "CHUNKY",
+      "name_us": "Chunky Weight",
+      "name_uk": "Chunky Weight",
+      "category": "Other",
+      "difficulty": "2",
+      "description": "Bulky yarn for quick projects and warm garments.",
+      "symbol": "5",
+      "tags": [
+        "yarn",
+        "weight",
+        "bulky"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278129"
+    },
+    {
+      "id": "GAUGE",
+      "name_us": "Gauge",
+      "name_uk": "Tension",
+      "category": "Other",
+      "difficulty": "2",
+      "description": "Number of stitches and rows per inch. Critical for proper sizing.",
+      "symbol": "gauge",
+      "tags": [
+        "technique",
+        "measurement",
+        "sizing"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278133"
+    },
+    {
+      "id": "BLOCKING",
+      "name_us": "Blocking",
+      "name_uk": "Blocking",
+      "category": "Shaping",
+      "difficulty": "3",
+      "description": "Wetting and shaping finished pieces to final dimensions.",
+      "symbol": "block",
+      "tags": [
+        "finishing",
+        "technique",
+        "shaping"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278137"
+    },
+    {
+      "id": "REP",
+      "name_us": "Repeat",
+      "name_uk": "Repeat",
+      "category": "Other",
+      "difficulty": "2",
+      "description": "Indicates a sequence of stitches to be repeated.",
+      "symbol": "*",
+      "tags": [
+        "pattern",
+        "instruction",
+        "repeat"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278142"
+    },
+    {
+      "id": "SP",
+      "name_us": "Space",
+      "name_uk": "Space",
+      "category": "Other",
+      "difficulty": "2",
+      "description": "Gap between stitches where new stitches are worked.",
+      "symbol": "sp",
+      "tags": [
+        "pattern",
+        "placement",
+        "gap"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278144"
+    },
+    {
+      "id": "SK",
+      "name_us": "Skip",
+      "name_uk": "Miss",
+      "category": "Shaping",
+      "difficulty": "3",
+      "description": "Intentionally omit working into a stitch or space.",
+      "symbol": "sk",
+      "tags": [
+        "pattern",
+        "technique",
+        "shaping"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278147"
+    },
+    {
+      "id": "TOG",
+      "name_us": "Together",
+      "name_uk": "Together",
+      "category": "Other",
+      "difficulty": "2",
+      "description": "Working two or more stitches together as one.",
+      "symbol": "tog",
+      "tags": [
+        "technique",
+        "decrease",
+        "combining"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278149"
+    },
+    {
+      "id": "BLS",
+      "name_us": "Broomstick Lace Stitch",
+      "name_uk": "Broomstick Lace Stitch",
+      "category": "Other",
+      "difficulty": "4",
+      "description": "Loops drawn up on large needle, then secured with single crochet.",
+      "symbol": "bls",
+      "tags": [
+        "advanced",
+        "lace",
+        "openwork"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278151"
+    },
+    {
+      "id": "HPL",
+      "name_us": "Hairpin Lace Join",
+      "name_uk": "Hairpin Lace Join",
+      "category": "Other",
+      "difficulty": "4",
+      "description": "Strips made on a hairpin loom and crocheted together.",
+      "symbol": "hpl",
+      "tags": [
+        "advanced",
+        "lace",
+        "strip"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278154"
+    },
+    {
+      "id": "DTR",
+      "name_us": "Double Treble Crochet",
+      "name_uk": "Triple Treble Crochet",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Very tall stitch with 2 yarn overs before inserting hook",
+      "symbol": "TTT",
+      "tags": [
+        "basic",
+        "tall",
+        "advanced"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278156"
+    },
+    {
+      "id": "TRTR",
+      "name_us": "Triple Treble Crochet",
+      "name_uk": "Quadruple Treble Crochet",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "Extremely tall stitch with 3 yarn overs",
+      "symbol": "TTTT",
+      "tags": [
+        "basic",
+        "tall",
+        "advanced"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278159"
+    },
+    {
+      "id": "YO",
+      "name_us": "Yarn Over",
+      "name_uk": "Yarn Over Hook",
+      "category": "Technique",
+      "difficulty": "1",
+      "description": "Wrap yarn around hook - fundamental movement in crochet",
+      "symbol": "/",
+      "tags": [
+        "basic",
+        "technique",
+        "fundamental"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278161"
+    },
+    {
+      "id": "LOOP",
+      "name_us": "Loop",
+      "name_uk": "Loop",
+      "category": "Basic",
+      "difficulty": "1",
+      "description": "A loop of yarn on the hook",
+      "symbol": "○",
+      "tags": [
+        "basic",
+        "fundamental"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278164"
+    },
+    {
+      "id": "BEG",
+      "name_us": "Beginning",
+      "name_uk": "Beginning",
+      "category": "Pattern",
+      "difficulty": "2",
+      "description": "Start of round or row",
+      "symbol": "→",
+      "tags": [
+        "pattern",
+        "instruction"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278166"
+    },
+    {
+      "id": "CONT",
+      "name_us": "Continue",
+      "name_uk": "Continue",
+      "category": "Pattern",
+      "difficulty": "2",
+      "description": "Continue in pattern as established",
+      "symbol": "...",
+      "tags": [
+        "pattern",
+        "instruction"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278168"
+    },
+    {
+      "id": "RND",
+      "name_us": "Round",
+      "name_uk": "Round",
+      "category": "Pattern",
+      "difficulty": "2",
+      "description": "Complete circle of stitches",
+      "symbol": "○",
+      "tags": [
+        "pattern",
+        "rounds"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278171"
+    },
+    {
+      "id": "ROW",
+      "name_us": "Row",
+      "name_uk": "Row",
+      "category": "Pattern",
+      "difficulty": "2",
+      "description": "Horizontal line of stitches worked back and forth",
+      "symbol": "—",
+      "tags": [
+        "pattern",
+        "rows"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278173"
+    },
+    {
+      "id": "WEAVE",
+      "name_us": "Weave in Ends",
+      "name_uk": "Sew in Ends",
+      "category": "Finishing",
+      "difficulty": "2",
+      "description": "Hide yarn tails by weaving through stitches",
+      "symbol": "~",
+      "tags": [
+        "finishing",
+        "technique"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278175"
+    },
+    {
+      "id": "SEAM",
+      "name_us": "Seam",
+      "name_uk": "Seam",
+      "category": "Construction",
+      "difficulty": "2",
+      "description": "Join pieces together with needle and yarn",
+      "symbol": "||",
+      "tags": [
+        "construction",
+        "joining",
+        "finishing"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278178"
+    },
+    {
+      "id": "RS",
+      "name_us": "Right Side",
+      "name_uk": "Right Side",
+      "category": "Pattern",
+      "difficulty": "2",
+      "description": "The front/public side of the work",
+      "symbol": "RS",
+      "tags": [
+        "pattern",
+        "sides"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278180"
+    },
+    {
+      "id": "WS",
+      "name_us": "Wrong Side",
+      "name_uk": "Wrong Side",
+      "category": "Pattern",
+      "difficulty": "2",
+      "description": "The back/private side of the work",
+      "symbol": "WS",
+      "tags": [
+        "pattern",
+        "sides"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278182"
+    },
+    {
+      "id": "PM",
+      "name_us": "Place Marker",
+      "name_uk": "Place Marker",
+      "category": "Technique",
+      "difficulty": "2",
+      "description": "Place stitch marker in stitch or between stitches",
+      "symbol": "M",
+      "tags": [
+        "technique",
+        "marking"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278184"
+    },
+    {
+      "id": "SM",
+      "name_us": "Slip Marker",
+      "name_uk": "Slip Marker",
+      "category": "Technique",
+      "difficulty": "2",
+      "description": "Move marker from one needle to the other",
+      "symbol": "M→",
+      "tags": [
+        "technique",
+        "marking"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278187"
+    },
+    {
+      "id": "M1",
+      "name_us": "Make 1",
+      "name_uk": "Make 1",
+      "category": "Shaping",
+      "difficulty": "3",
+      "description": "Invisible increase between stitches",
+      "symbol": "M1",
+      "tags": [
+        "increase",
+        "shaping"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278189"
+    },
+    {
+      "id": "BO",
+      "name_us": "Bind Off",
+      "name_uk": "Cast Off",
+      "category": "Finishing",
+      "difficulty": "2",
+      "description": "Secure stitches at end of piece",
+      "symbol": "BO",
+      "tags": [
+        "finishing",
+        "edges"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278192"
+    },
+    {
+      "id": "TFS",
+      "name_us": "Tunisian Full Stitch",
+      "name_uk": "Tunisian Full Stitch",
+      "category": "tunisian",
+      "difficulty": "1",
+      "description": "Worked into front and back vertical bars",
+      "symbol": "tfs",
+      "tags": [
+        "tunisian",
+        "basic",
+        "dense"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278194"
+    },
+    {
+      "id": "TRS",
+      "name_us": "Tunisian Reverse Stitch",
+      "name_uk": "Tunisian Reverse Stitch",
+      "category": "tunisian",
+      "difficulty": "3",
+      "description": "Creates pronounced vertical ridges",
+      "symbol": "trs",
+      "tags": [
+        "tunisian",
+        "texture",
+        "intermediate"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278196"
+    },
+    {
+      "id": "TSS2TOG",
+      "name_us": "Tunisian Simple Stitch 2 Together",
+      "name_uk": "Tunisian Simple Stitch 2 Together",
+      "category": "tunisian",
+      "difficulty": "3",
+      "description": "Tunisian decrease technique",
+      "symbol": "tss2tog",
+      "tags": [
+        "tunisian",
+        "decrease",
+        "shaping"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278199"
+    },
+    {
+      "id": "TINC",
+      "name_us": "Tunisian Increase",
+      "name_uk": "Tunisian Increase",
+      "category": "tunisian",
+      "difficulty": "3",
+      "description": "Adding stitches in Tunisian work",
+      "symbol": "tinc",
+      "tags": [
+        "tunisian",
+        "increase",
+        "shaping"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278201"
+    },
+    {
+      "id": "TBO",
+      "name_us": "Tunisian Bind Off",
+      "name_uk": "Tunisian Cast Off",
+      "category": "tunisian",
+      "difficulty": "4",
+      "description": "Standard finishing for Tunisian crochet",
+      "symbol": "tbo",
+      "tags": [
+        "tunisian",
+        "finishing",
+        "edge"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278204"
+    },
+    {
+      "id": "TCABLE",
+      "name_us": "Tunisian Cable",
+      "name_uk": "Tunisian Cable",
+      "category": "tunisian",
+      "difficulty": "4",
+      "description": "Cable worked in Tunisian crochet",
+      "symbol": "tcbl",
+      "tags": [
+        "tunisian",
+        "cable",
+        "advanced"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278206"
+    },
+    {
+      "id": "TENTRELAC",
+      "name_us": "Tunisian Entrelac",
+      "name_uk": "Tunisian Entrelac",
+      "category": "tunisian",
+      "difficulty": "4",
+      "description": "Diagonal block technique",
+      "symbol": "tent",
+      "tags": [
+        "tunisian",
+        "modular",
+        "advanced"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278209"
+    },
+    {
+      "id": "FWD-PASS",
+      "name_us": "Forward Pass",
+      "name_uk": "Forward Pass",
+      "category": "tunisian",
+      "difficulty": "1",
+      "description": "Picking up loops on hook",
+      "symbol": "fwd",
+      "tags": [
+        "tunisian",
+        "technique",
+        "basic"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278211"
+    },
+    {
+      "id": "RTN-PASS",
+      "name_us": "Return Pass",
+      "name_uk": "Return Pass",
+      "category": "tunisian",
+      "difficulty": "1",
+      "description": "Working loops off hook",
+      "symbol": "rtn",
+      "tags": [
+        "tunisian",
+        "technique",
+        "basic"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278214"
+    },
+    {
+      "id": "TFLO",
+      "name_us": "Tunisian Front Loop Only",
+      "name_uk": "Tunisian Front Loop Only",
+      "category": "tunisian",
+      "difficulty": "3",
+      "description": "Working in front loops only",
+      "symbol": "tflo",
+      "tags": [
+        "tunisian",
+        "technique",
+        "texture"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278217"
+    },
+    {
+      "id": "TBLO",
+      "name_us": "Tunisian Back Loop Only",
+      "name_uk": "Tunisian Back Loop Only",
+      "category": "tunisian",
+      "difficulty": "3",
+      "description": "Working in back loops only",
+      "symbol": "tblo",
+      "tags": [
+        "tunisian",
+        "technique",
+        "texture"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278220"
+    },
+    {
+      "id": "TCOLOR",
+      "name_us": "Tunisian Color Change",
+      "name_uk": "Tunisian Colour Change",
+      "category": "tunisian",
+      "difficulty": "4",
+      "description": "Changing colors in Tunisian work",
+      "symbol": "tcol",
+      "tags": [
+        "tunisian",
+        "colorwork",
+        "technique"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278223"
+    },
+    {
+      "id": "JOGLESS",
+      "name_us": "Jogless Join",
+      "name_uk": "Jogless Join",
+      "category": "amigurumi",
+      "difficulty": "2",
+      "description": "Technique for smooth color changes in rounds",
+      "symbol": "jj",
+      "tags": [
+        "amigurumi",
+        "joining",
+        "seamless"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278225"
+    },
+    {
+      "id": "AMIR",
+      "name_us": "Amigurumi Magic Ring",
+      "name_uk": "Amigurumi Magic Ring",
+      "category": "amigurumi",
+      "difficulty": "2",
+      "description": "Extra-tight magic ring for toys",
+      "symbol": "amir",
+      "tags": [
+        "amigurumi",
+        "starting",
+        "adjustable"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278228"
+    },
+    {
+      "id": "STUFFING",
+      "name_us": "Stuffing Opening",
+      "name_uk": "Stuffing Opening",
+      "category": "amigurumi",
+      "difficulty": "2",
+      "description": "Leaving opening for stuffing",
+      "symbol": "stuff",
+      "tags": [
+        "amigurumi",
+        "construction",
+        "technique"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278230"
+    },
+    {
+      "id": "CLOSE",
+      "name_us": "Close Opening",
+      "name_uk": "Close Opening",
+      "category": "amigurumi",
+      "difficulty": "2",
+      "description": "Closing stuffed pieces",
+      "symbol": "close",
+      "tags": [
+        "amigurumi",
+        "finishing",
+        "sewing"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278232"
+    },
+    {
+      "id": "SPHERE",
+      "name_us": "Sphere Increase Pattern",
+      "name_uk": "Sphere Increase Pattern",
+      "category": "amigurumi",
+      "difficulty": "3",
+      "description": "Standard ball shaping sequence",
+      "symbol": "sph",
+      "tags": [
+        "amigurumi",
+        "shaping",
+        "3D"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278235"
+    },
+    {
+      "id": "OVAL",
+      "name_us": "Oval Starting Chain",
+      "name_uk": "Oval Starting Chain",
+      "category": "amigurumi",
+      "difficulty": "1",
+      "description": "Working around chain for oval base",
+      "symbol": "oval",
+      "tags": [
+        "amigurumi",
+        "shaping",
+        "foundation"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278237"
+    },
+    {
+      "id": "CONE",
+      "name_us": "Cone Shaping",
+      "name_uk": "Cone Shaping",
+      "category": "amigurumi",
+      "difficulty": "3",
+      "description": "Gradual decrease for cone shapes",
+      "symbol": "cone",
+      "tags": [
+        "amigurumi",
+        "shaping",
+        "3D"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278240"
+    },
+    {
+      "id": "CYLINDER",
+      "name_us": "Cylinder Pattern",
+      "name_uk": "Cylinder Pattern",
+      "category": "amigurumi",
+      "difficulty": "3",
+      "description": "Even rounds without increase/decrease",
+      "symbol": "cyl",
+      "tags": [
+        "amigurumi",
+        "shaping",
+        "3D"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278242"
+    },
+    {
+      "id": "PINCH",
+      "name_us": "Pinch Stitch",
+      "name_uk": "Pinch Stitch",
+      "category": "amigurumi",
+      "difficulty": "3",
+      "description": "Creating indentations for details",
+      "symbol": "pinch",
+      "tags": [
+        "amigurumi",
+        "shaping",
+        "detail"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278244"
+    },
+    {
+      "id": "EMB",
+      "name_us": "Surface Embroidery",
+      "name_uk": "Surface Embroidery",
+      "category": "amigurumi",
+      "difficulty": "2",
+      "description": "Adding embroidered details",
+      "symbol": "emb",
+      "tags": [
+        "amigurumi",
+        "decoration",
+        "detail"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278247"
+    },
+    {
+      "id": "JOINT",
+      "name_us": "Joint Attachment",
+      "name_uk": "Joint Attachment",
+      "category": "amigurumi",
+      "difficulty": "2",
+      "description": "Creating moveable limb joints",
+      "symbol": "joint",
+      "tags": [
+        "amigurumi",
+        "moveable",
+        "assembly"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Amigurumi, Toys, 3D projects",
+      "updated": "2025-07-11T01:16:57.278249"
+    },
+    {
+      "id": "C2C",
+      "name_us": "Corner to Corner",
+      "name_uk": "Corner to Corner",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Diagonal crochet technique",
+      "symbol": "c2c",
+      "tags": [
+        "modern",
+        "diagonal",
+        "blanket"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278251"
+    },
+    {
+      "id": "TEMPBLANKET",
+      "name_us": "Temperature Blanket",
+      "name_uk": "Temperature Blanket",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Daily temperature tracking in yarn",
+      "symbol": "temp",
+      "tags": [
+        "modern",
+        "data-viz",
+        "year-long"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278254"
+    },
+    {
+      "id": "GRAPHGAN",
+      "name_us": "Graphgan",
+      "name_uk": "Graphgan",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Picture afghans from charts",
+      "symbol": "graph",
+      "tags": [
+        "modern",
+        "picture",
+        "blanket"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278256"
+    },
+    {
+      "id": "MANDALA",
+      "name_us": "Mandala",
+      "name_uk": "Mandala",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Circular decorative patterns",
+      "symbol": "mand",
+      "tags": [
+        "modern",
+        "circular",
+        "decorative"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278259"
+    },
+    {
+      "id": "VIRUS",
+      "name_us": "Virus Blanket/Shawl",
+      "name_uk": "Virus Blanket/Shawl",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Popular textured pattern",
+      "symbol": "virus",
+      "tags": [
+        "modern",
+        "pattern-name",
+        "textured"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278261"
+    },
+    {
+      "id": "OMBRE",
+      "name_us": "Ombre Effect",
+      "name_uk": "Ombre Effect",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Gradual color transition",
+      "symbol": "ombr",
+      "tags": [
+        "modern",
+        "color",
+        "gradient"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278264"
+    },
+    {
+      "id": "POOLING",
+      "name_us": "Color Pooling",
+      "name_uk": "Colour Pooling",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Planned color placement with variegated yarn",
+      "symbol": "pool",
+      "tags": [
+        "modern",
+        "variegated",
+        "planned"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278266"
+    },
+    {
+      "id": "MOSAIC",
+      "name_us": "Mosaic Crochet",
+      "name_uk": "Mosaic Crochet",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Geometric colorwork technique",
+      "symbol": "mos",
+      "tags": [
+        "modern",
+        "colorwork",
+        "geometric"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278269"
+    },
+    {
+      "id": "OVERLAY",
+      "name_us": "Overlay Crochet",
+      "name_uk": "Overlay Crochet",
+      "category": "modern",
+      "difficulty": "4",
+      "description": "Working on top of base fabric",
+      "symbol": "over",
+      "tags": [
+        "modern",
+        "colorwork",
+        "advanced"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278271"
+    },
+    {
+      "id": "WAFFLE",
+      "name_us": "Waffle Stitch",
+      "name_uk": "Waffle Stitch",
+      "category": "modern",
+      "difficulty": "3",
+      "description": "Textured square pattern",
+      "symbol": "waff",
+      "tags": [
+        "modern",
+        "texture",
+        "thick"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278273"
+    },
+    {
+      "id": "WIP",
+      "name_us": "Work in Progress",
+      "name_uk": "Work in Progress",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Unfinished project",
+      "symbol": "wip",
+      "tags": [
+        "modern",
+        "project-status",
+        "community"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278276"
+    },
+    {
+      "id": "FROG",
+      "name_us": "Frogging (rip it)",
+      "name_uk": "Frogging",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Unraveling work to fix mistakes",
+      "symbol": "frog",
+      "tags": [
+        "modern",
+        "mistake",
+        "redo"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278278"
+    },
+    {
+      "id": "YARN-DIET",
+      "name_us": "Yarn Diet",
+      "name_uk": "Yarn Diet",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Not buying new yarn",
+      "symbol": "diet",
+      "tags": [
+        "modern",
+        "stash",
+        "no-buy"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278280"
+    },
+    {
+      "id": "SCRAP-GHAN",
+      "name_us": "Scrap Afghan",
+      "name_uk": "Scrap Afghan",
+      "category": "modern",
+      "difficulty": "2",
+      "description": "Blanket from leftover yarns",
+      "symbol": "scrap",
+      "tags": [
+        "modern",
+        "stashbuster",
+        "blanket"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278283"
+    },
+    {
+      "id": "IRISH-ROSE",
+      "name_us": "Irish Rose",
+      "name_uk": "Irish Rose",
+      "category": "lace",
+      "difficulty": "4",
+      "description": "Traditional dimensional flower",
+      "symbol": "irose",
+      "tags": [
+        "lace",
+        "irish",
+        "motif"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278285"
+    },
+    {
+      "id": "CLONES",
+      "name_us": "Clones Knot",
+      "name_uk": "Clones Knot",
+      "category": "lace",
+      "difficulty": "4",
+      "description": "Irish crochet padding stitch",
+      "symbol": "clon",
+      "tags": [
+        "lace",
+        "irish",
+        "traditional"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278288"
+    },
+    {
+      "id": "PADDED-CORD",
+      "name_us": "Padded Cord",
+      "name_uk": "Padded Cord",
+      "category": "lace",
+      "difficulty": "4",
+      "description": "Crochet over cord foundation",
+      "symbol": "pcord",
+      "tags": [
+        "lace",
+        "irish",
+        "raised"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278290"
+    },
+    {
+      "id": "MESH",
+      "name_us": "Mesh Background",
+      "name_uk": "Mesh Background",
+      "category": "lace",
+      "difficulty": "4",
+      "description": "Net-like background",
+      "symbol": "mesh",
+      "tags": [
+        "lace",
+        "background",
+        "openwork"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278292"
+    },
+    {
+      "id": "FILET",
+      "name_us": "Filet Crochet",
+      "name_uk": "Filet Crochet",
+      "category": "lace",
+      "difficulty": "4",
+      "description": "Grid-based lace technique",
+      "symbol": "fil",
+      "tags": [
+        "lace",
+        "filet",
+        "grid"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278295"
+    },
+    {
+      "id": "BLOCK",
+      "name_us": "Filet Block",
+      "name_uk": "Filet Block",
+      "category": "lace",
+      "difficulty": "4",
+      "description": "Filled square in filet",
+      "symbol": "blk",
+      "tags": [
+        "lace",
+        "filet",
+        "filled"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278298"
+    },
+    {
+      "id": "SPACE",
+      "name_us": "Filet Space",
+      "name_uk": "Filet Space",
+      "category": "lace",
+      "difficulty": "4",
+      "description": "Open square in filet",
+      "symbol": "spc",
+      "tags": [
+        "lace",
+        "filet",
+        "open"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278300"
+    },
+    {
+      "id": "LACET",
+      "name_us": "Lacet Stitch",
+      "name_uk": "Lacet Stitch",
+      "category": "lace",
+      "difficulty": "4",
+      "description": "Diagonal filet element",
+      "symbol": "lac",
+      "tags": [
+        "lace",
+        "filet",
+        "decorative"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278303"
+    },
+    {
+      "id": "BAR",
+      "name_us": "Bar Increase",
+      "name_uk": "Bar Increase",
+      "category": "lace",
+      "difficulty": "3",
+      "description": "Filet shaping technique",
+      "symbol": "bar",
+      "tags": [
+        "lace",
+        "filet",
+        "shaping"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278305"
+    },
+    {
+      "id": "STEEL",
+      "name_us": "Steel Hook",
+      "name_uk": "Steel Hook",
+      "category": "lace",
+      "difficulty": "4",
+      "description": "Small hooks for thread",
+      "symbol": "steel",
+      "tags": [
+        "lace",
+        "tool",
+        "thread"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278307"
+    },
+    {
+      "id": "THREAD-JOIN",
+      "name_us": "Thread Join",
+      "name_uk": "Thread Join",
+      "category": "lace",
+      "difficulty": "4",
+      "description": "Invisible joining in thread work",
+      "symbol": "tj",
+      "tags": [
+        "lace",
+        "joining",
+        "invisible"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278310"
+    },
+    {
+      "id": "WHIP",
+      "name_us": "Whip Stitch",
+      "name_uk": "Whip Stitch",
+      "category": "construction",
+      "difficulty": "1",
+      "description": "Basic overcast seam",
+      "symbol": "whip",
+      "tags": [
+        "seaming",
+        "basic",
+        "sewing"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Dishcloths, Scarves, Beginner projects",
+      "updated": "2025-07-11T01:16:57.278312"
+    },
+    {
+      "id": "MATTRESS",
+      "name_us": "Mattress Stitch",
+      "name_uk": "Mattress Stitch",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Invisible vertical seam",
+      "symbol": "matt",
+      "tags": [
+        "seaming",
+        "invisible",
+        "professional"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278315"
+    },
+    {
+      "id": "CROCHET-SEAM",
+      "name_us": "Crochet Seam",
+      "name_uk": "Crochet Seam",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Join with slip stitch or sc",
+      "symbol": "cseam",
+      "tags": [
+        "seaming",
+        "decorative",
+        "join"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278317"
+    },
+    {
+      "id": "FLAT-JOIN",
+      "name_us": "Flat Join",
+      "name_uk": "Flat Join",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Joining without bulk",
+      "symbol": "flat",
+      "tags": [
+        "seaming",
+        "motifs",
+        "smooth"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278320"
+    },
+    {
+      "id": "JAYG",
+      "name_us": "Join As You Go",
+      "name_uk": "Join As You Go",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Joining while working",
+      "symbol": "jayg",
+      "tags": [
+        "joining",
+        "continuous",
+        "efficient"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278322"
+    },
+    {
+      "id": "CRAB",
+      "name_us": "Crab Stitch",
+      "name_uk": "Crab Stitch",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Reverse single crochet",
+      "symbol": "crab",
+      "tags": [
+        "edging",
+        "decorative",
+        "reverse"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278325"
+    },
+    {
+      "id": "SHELL-EDGE",
+      "name_us": "Shell Edging",
+      "name_uk": "Shell Edging",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Decorative shell border",
+      "symbol": "she",
+      "tags": [
+        "edging",
+        "decorative",
+        "scalloped"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278327"
+    },
+    {
+      "id": "RUFFLE",
+      "name_us": "Ruffle Edge",
+      "name_uk": "Ruffle Edge",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Gathered edge treatment",
+      "symbol": "ruf",
+      "tags": [
+        "edging",
+        "decorative",
+        "gathered"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278329"
+    },
+    {
+      "id": "BLANKET-ST",
+      "name_us": "Blanket Stitch Edge",
+      "name_uk": "Blanket Stitch Edge",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Sewn edge finish",
+      "symbol": "blst",
+      "tags": [
+        "edging",
+        "finishing",
+        "neat"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278332"
+    },
+    {
+      "id": "BUTTON-LOOP",
+      "name_us": "Button Loop",
+      "name_uk": "Button Loop",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Chain loop for button",
+      "symbol": "loop",
+      "tags": [
+        "closure",
+        "buttonhole",
+        "simple"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278334"
+    },
+    {
+      "id": "BUTTONHOLE",
+      "name_us": "Buttonhole",
+      "name_uk": "Buttonhole",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Worked-in button opening",
+      "symbol": "bh",
+      "tags": [
+        "closure",
+        "opening",
+        "structured"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278337"
+    },
+    {
+      "id": "POCKET",
+      "name_us": "Pocket",
+      "name_uk": "Pocket",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Applied or inset pocket",
+      "symbol": "pkt",
+      "tags": [
+        "feature",
+        "functional",
+        "applied"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278339"
+    },
+    {
+      "id": "ZIPPER",
+      "name_us": "Zipper Installation",
+      "name_uk": "Zip Installation",
+      "category": "construction",
+      "difficulty": "4",
+      "description": "Sewing in zipper",
+      "symbol": "zip",
+      "tags": [
+        "closure",
+        "sewing",
+        "advanced"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278341"
+    },
+    {
+      "id": "LINING",
+      "name_us": "Lining Attachment",
+      "name_uk": "Lining Attachment",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Adding fabric lining",
+      "symbol": "line",
+      "tags": [
+        "finishing",
+        "fabric",
+        "professional"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278344"
+    },
+    {
+      "id": "REINFORCE",
+      "name_us": "Reinforcement",
+      "name_uk": "Reinforcement",
+      "category": "construction",
+      "difficulty": "2",
+      "description": "Strengthening stress points",
+      "symbol": "reinf",
+      "tags": [
+        "structure",
+        "strength",
+        "stress-point"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278346"
+    },
+    {
+      "id": "INTARSIA",
+      "name_us": "Intarsia",
+      "name_uk": "Intarsia",
+      "category": "colorwork",
+      "difficulty": "4",
+      "description": "Block color technique",
+      "symbol": "int",
+      "tags": [
+        "colorwork",
+        "blocks",
+        "advanced"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278349"
+    },
+    {
+      "id": "FAIRISLE",
+      "name_us": "Fair Isle Crochet",
+      "name_uk": "Fair Isle Crochet",
+      "category": "colorwork",
+      "difficulty": "2",
+      "description": "Stranded colorwork",
+      "symbol": "fair",
+      "tags": [
+        "colorwork",
+        "stranded",
+        "traditional"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278351"
+    },
+    {
+      "id": "TAPESTRY",
+      "name_us": "Tapestry Crochet",
+      "name_uk": "Tapestry Crochet",
+      "category": "colorwork",
+      "difficulty": "2",
+      "description": "Carrying unused colors",
+      "symbol": "tap",
+      "tags": [
+        "colorwork",
+        "carried",
+        "picture"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278353"
+    },
+    {
+      "id": "SPIKE-COLOR",
+      "name_us": "Spike Stitch Colorwork",
+      "name_uk": "Spike Stitch Colourwork",
+      "category": "colorwork",
+      "difficulty": "3",
+      "description": "Color changes with spike stitches",
+      "symbol": "spkcol",
+      "tags": [
+        "colorwork",
+        "texture",
+        "pattern"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278356"
+    },
+    {
+      "id": "PERFECT-CHANGE",
+      "name_us": "Perfect Color Change",
+      "name_uk": "Perfect Colour Change",
+      "category": "colorwork",
+      "difficulty": "2",
+      "description": "Last yo of previous stitch",
+      "symbol": "pcc",
+      "tags": [
+        "colorwork",
+        "technique",
+        "clean"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278358"
+    },
+    {
+      "id": "CARRIED",
+      "name_us": "Carried Yarn",
+      "name_uk": "Carried Yarn",
+      "category": "colorwork",
+      "difficulty": "2",
+      "description": "Floating unused color",
+      "symbol": "carry",
+      "tags": [
+        "colorwork",
+        "technique",
+        "float"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278361"
+    },
+    {
+      "id": "CUT-JOIN",
+      "name_us": "Cut and Join",
+      "name_uk": "Cut and Join",
+      "category": "colorwork",
+      "difficulty": "2",
+      "description": "Cutting yarn for clean changes",
+      "symbol": "cut",
+      "tags": [
+        "colorwork",
+        "technique",
+        "clean"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278363"
+    },
+    {
+      "id": "PLANNED-POOL",
+      "name_us": "Planned Pooling",
+      "name_uk": "Planned Pooling",
+      "category": "colorwork",
+      "difficulty": "2",
+      "description": "Calculated color placement",
+      "symbol": "ppool",
+      "tags": [
+        "colorwork",
+        "variegated",
+        "mathematical"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278365"
+    },
+    {
+      "id": "JOGLESS-STRIPE",
+      "name_us": "Jogless Stripes",
+      "name_uk": "Jogless Stripes",
+      "category": "colorwork",
+      "difficulty": "2",
+      "description": "Seamless stripe technique",
+      "symbol": "jstr",
+      "tags": [
+        "colorwork",
+        "stripes",
+        "seamless"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278368"
+    },
+    {
+      "id": "GRADIENT",
+      "name_us": "Gradient Technique",
+      "name_uk": "Gradient Technique",
+      "category": "colorwork",
+      "difficulty": "4",
+      "description": "Blending multiple colors",
+      "symbol": "grad",
+      "tags": [
+        "colorwork",
+        "blending",
+        "advanced"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278370"
+    },
+    {
+      "id": "MULTIPLE",
+      "name_us": "Pattern Multiple",
+      "name_uk": "Pattern Multiple",
+      "category": "pattern",
+      "difficulty": "2",
+      "description": "Required stitch count",
+      "symbol": "mult",
+      "tags": [
+        "pattern-reading",
+        "repeat",
+        "planning"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278373"
+    },
+    {
+      "id": "GAUGE-SWATCH",
+      "name_us": "Gauge Swatch",
+      "name_uk": "Tension Square",
+      "category": "pattern",
+      "difficulty": "2",
+      "description": "Test square for sizing",
+      "symbol": "gs",
+      "tags": [
+        "pattern-reading",
+        "measuring",
+        "essential"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278375"
+    },
+    {
+      "id": "SCHEMATIC",
+      "name_us": "Schematic",
+      "name_uk": "Schematic",
+      "category": "pattern",
+      "difficulty": "2",
+      "description": "Measurement diagram",
+      "symbol": "schem",
+      "tags": [
+        "pattern-reading",
+        "diagram",
+        "measurements"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278377"
+    },
+    {
+      "id": "EASE",
+      "name_us": "Ease",
+      "name_uk": "Ease",
+      "category": "pattern",
+      "difficulty": "2",
+      "description": "Extra room in garment",
+      "symbol": "ease",
+      "tags": [
+        "pattern-reading",
+        "fit",
+        "garment"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278380"
+    },
+    {
+      "id": "REPEAT-FROM",
+      "name_us": "Repeat From *",
+      "name_uk": "Repeat From *",
+      "category": "pattern",
+      "difficulty": "2",
+      "description": "Repeat section marker",
+      "symbol": "rep*",
+      "tags": [
+        "pattern-reading",
+        "instruction",
+        "repeat"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278382"
+    },
+    {
+      "id": "WORK-EVEN",
+      "name_us": "Work Even",
+      "name_uk": "Work Straight",
+      "category": "pattern",
+      "difficulty": "2",
+      "description": "Continue without shaping",
+      "symbol": "even",
+      "tags": [
+        "pattern-reading",
+        "instruction",
+        "rows"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278384"
+    },
+    {
+      "id": "AT-SAME-TIME",
+      "name_us": "At The Same Time",
+      "name_uk": "At The Same Time",
+      "category": "pattern",
+      "difficulty": "2",
+      "description": "Simultaneous instructions",
+      "symbol": "simul",
+      "tags": [
+        "pattern-reading",
+        "instruction",
+        "multi-task"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278387"
+    },
+    {
+      "id": "REVERSE-SHAPING",
+      "name_us": "Reverse Shaping",
+      "name_uk": "Reverse Shaping",
+      "category": "pattern",
+      "difficulty": "2",
+      "description": "Mirror image shaping",
+      "symbol": "rev",
+      "tags": [
+        "pattern-reading",
+        "mirror",
+        "garment"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278389"
+    },
+    {
+      "id": "FINGERING",
+      "name_us": "Fingering Weight",
+      "name_uk": "Fingering Weight",
+      "category": "yarn",
+      "difficulty": "2",
+      "description": "Super fine weight yarn, often used for socks",
+      "symbol": "1",
+      "tags": [
+        "yarn",
+        "weight",
+        "fine"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278392"
+    },
+    {
+      "id": "SPORT",
+      "name_us": "Sport Weight",
+      "name_uk": "Sport Weight",
+      "category": "yarn",
+      "difficulty": "2",
+      "description": "Fine weight yarn between fingering and DK",
+      "symbol": "2",
+      "tags": [
+        "yarn",
+        "weight",
+        "light"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278394"
+    },
+    {
+      "id": "BULKY",
+      "name_us": "Bulky Weight",
+      "name_uk": "Chunky Weight",
+      "category": "yarn",
+      "difficulty": "2",
+      "description": "Thick yarn for quick projects",
+      "symbol": "5",
+      "tags": [
+        "yarn",
+        "weight",
+        "thick"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278397"
+    },
+    {
+      "id": "SUPER-BULKY",
+      "name_us": "Super Bulky Weight",
+      "name_uk": "Super Chunky Weight",
+      "category": "yarn",
+      "difficulty": "2",
+      "description": "Extra thick yarn for fast projects",
+      "symbol": "6",
+      "tags": [
+        "yarn",
+        "weight",
+        "extra-thick"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278399"
+    },
+    {
+      "id": "LACE-WT",
+      "name_us": "Lace Weight",
+      "name_uk": "Lace Weight",
+      "category": "yarn",
+      "difficulty": "2",
+      "description": "Ultra fine yarn for delicate lace",
+      "symbol": "0",
+      "tags": [
+        "yarn",
+        "weight",
+        "ultra-fine"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278401"
+    },
+    {
+      "id": "PLY",
+      "name_us": "Ply",
+      "name_uk": "Ply",
+      "category": "yarn",
+      "difficulty": "2",
+      "description": "Number of strands twisted together",
+      "symbol": "ply",
+      "tags": [
+        "yarn",
+        "structure",
+        "twist"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278404"
+    },
+    {
+      "id": "HANK",
+      "name_us": "Hank",
+      "name_uk": "Hank",
+      "category": "yarn",
+      "difficulty": "2",
+      "description": "Looped bundle of yarn needing winding",
+      "symbol": "hank",
+      "tags": [
+        "yarn",
+        "packaging",
+        "skein"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278406"
+    },
+    {
+      "id": "CAKE",
+      "name_us": "Yarn Cake",
+      "name_uk": "Yarn Cake",
+      "category": "yarn",
+      "difficulty": "2",
+      "description": "Center-pull wound yarn bundle",
+      "symbol": "cake",
+      "tags": [
+        "yarn",
+        "wound",
+        "center-pull"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278409"
+    },
+    {
+      "id": "BALL-BAND",
+      "name_us": "Ball Band",
+      "name_uk": "Ball Band",
+      "category": "yarn",
+      "difficulty": "2",
+      "description": "Yarn label with vital information",
+      "symbol": "band",
+      "tags": [
+        "yarn",
+        "label",
+        "information"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278411"
+    },
+    {
+      "id": "DYE-LOT",
+      "name_us": "Dye Lot",
+      "name_uk": "Dye Lot",
+      "category": "yarn",
+      "difficulty": "2",
+      "description": "Batch number for color matching",
+      "symbol": "lot",
+      "tags": [
+        "yarn",
+        "color",
+        "matching"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278413"
+    },
+    {
+      "id": "PINEAPPLE",
+      "name_us": "Pineapple Stitch",
+      "name_uk": "Pineapple Stitch",
+      "category": "vintage",
+      "difficulty": "4",
+      "description": "Traditional lace motif resembling pineapple",
+      "symbol": "pine",
+      "tags": [
+        "vintage",
+        "lace",
+        "motif"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278416"
+    },
+    {
+      "id": "PEACOCK",
+      "name_us": "Peacock Stitch",
+      "name_uk": "Peacock Stitch",
+      "category": "vintage",
+      "difficulty": "2",
+      "description": "Vintage fan pattern resembling peacock tail",
+      "symbol": "pcock",
+      "tags": [
+        "vintage",
+        "fan",
+        "decorative"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278418"
+    },
+    {
+      "id": "LOVERS-KNOT",
+      "name_us": "Lovers Knot",
+      "name_uk": "Lovers Knot",
+      "category": "vintage",
+      "difficulty": "4",
+      "description": "Alternative name for Solomon's Knot",
+      "symbol": "lknot",
+      "tags": [
+        "vintage",
+        "lace",
+        "romantic"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278420"
+    },
+    {
+      "id": "STAR-ST",
+      "name_us": "Star Stitch",
+      "name_uk": "Star Stitch",
+      "category": "vintage",
+      "difficulty": "3",
+      "description": "Creates star-like texture pattern",
+      "symbol": "star",
+      "tags": [
+        "vintage",
+        "texture",
+        "decorative"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278423"
+    },
+    {
+      "id": "CATHERINE-WHEEL",
+      "name_us": "Catherine Wheel",
+      "name_uk": "Catherine Wheel",
+      "category": "vintage",
+      "difficulty": "2",
+      "description": "Circular motif with radiating spokes",
+      "symbol": "cwheel",
+      "tags": [
+        "vintage",
+        "circular",
+        "colorwork"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278425"
+    },
+    {
+      "id": "BAVARIAN",
+      "name_us": "Bavarian Crochet",
+      "name_uk": "Bavarian Crochet",
+      "category": "vintage",
+      "difficulty": "2",
+      "description": "Traditional square with raised rounds",
+      "symbol": "bav",
+      "tags": [
+        "vintage",
+        "square",
+        "textured"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278428"
+    },
+    {
+      "id": "BRUGES",
+      "name_us": "Bruges Lace",
+      "name_uk": "Bruges Lace",
+      "category": "vintage",
+      "difficulty": "4",
+      "description": "Ribbon lace technique from Belgium",
+      "symbol": "bruges",
+      "tags": [
+        "vintage",
+        "lace",
+        "ribbon"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278430"
+    },
+    {
+      "id": "BULLION",
+      "name_us": "Bullion Stitch",
+      "name_uk": "Bullion Stitch",
+      "category": "vintage",
+      "difficulty": "3",
+      "description": "Multiple wraps creating coiled effect",
+      "symbol": "bull",
+      "tags": [
+        "vintage",
+        "texture",
+        "coil"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278433"
+    },
+    {
+      "id": "INLINE",
+      "name_us": "Inline Hook",
+      "name_uk": "Inline Hook",
+      "category": "tool",
+      "difficulty": "2",
+      "description": "Hook with aligned head and shaft",
+      "symbol": "inline",
+      "tags": [
+        "tool",
+        "hook",
+        "style"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278435"
+    },
+    {
+      "id": "TAPERED",
+      "name_us": "Tapered Hook",
+      "name_uk": "Tapered Hook",
+      "category": "tool",
+      "difficulty": "2",
+      "description": "Hook with tapered throat design",
+      "symbol": "taper",
+      "tags": [
+        "tool",
+        "hook",
+        "style"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278437"
+    },
+    {
+      "id": "ERGONOMIC",
+      "name_us": "Ergonomic Hook",
+      "name_uk": "Ergonomic Hook",
+      "category": "tool",
+      "difficulty": "2",
+      "description": "Hook with comfort grip handle",
+      "symbol": "ergo",
+      "tags": [
+        "tool",
+        "hook",
+        "comfort"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278440"
+    },
+    {
+      "id": "TUNISIAN-HOOK",
+      "name_us": "Tunisian Hook",
+      "name_uk": "Afghan Hook",
+      "category": "tool",
+      "difficulty": "4",
+      "description": "Long hook for Tunisian crochet",
+      "symbol": "thook",
+      "tags": [
+        "tool",
+        "hook",
+        "tunisian"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278442"
+    },
+    {
+      "id": "INTERCHANGEABLE",
+      "name_us": "Interchangeable Hook",
+      "name_uk": "Interchangeable Hook",
+      "category": "tool",
+      "difficulty": "2",
+      "description": "Hook with removable cable",
+      "symbol": "inter",
+      "tags": [
+        "tool",
+        "hook",
+        "modular"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278444"
+    },
+    {
+      "id": "STITCH-MARKER",
+      "name_us": "Stitch Marker",
+      "name_uk": "Stitch Marker",
+      "category": "tool",
+      "difficulty": "2",
+      "description": "Marker to track rounds or stitches",
+      "symbol": "sm",
+      "tags": [
+        "tool",
+        "marker",
+        "tracking"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278447"
+    },
+    {
+      "id": "YARN-NEEDLE",
+      "name_us": "Yarn Needle",
+      "name_uk": "Tapestry Needle",
+      "category": "tool",
+      "difficulty": "2",
+      "description": "Large needle for sewing yarn",
+      "symbol": "yn",
+      "tags": [
+        "tool",
+        "needle",
+        "finishing"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278449"
+    },
+    {
+      "id": "BLOCKING-PINS",
+      "name_us": "Blocking Pins",
+      "name_uk": "Blocking Pins",
+      "category": "tool",
+      "difficulty": "2",
+      "description": "Rust-proof pins for blocking",
+      "symbol": "pins",
+      "tags": [
+        "tool",
+        "blocking",
+        "finishing"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278451"
+    },
+    {
+      "id": "ALPINE",
+      "name_us": "Alpine Stitch",
+      "name_uk": "Alpine Stitch",
+      "category": "specialty",
+      "difficulty": "3",
+      "description": "Creates raised X pattern texture",
+      "symbol": "alp",
+      "tags": [
+        "specialty",
+        "texture",
+        "raised"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278454"
+    },
+    {
+      "id": "BASKET-WEAVE",
+      "name_us": "Basketweave Stitch",
+      "name_uk": "Basketweave Stitch",
+      "category": "specialty",
+      "difficulty": "3",
+      "description": "Creates woven basket texture",
+      "symbol": "bw",
+      "tags": [
+        "specialty",
+        "texture",
+        "woven"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278456"
+    },
+    {
+      "id": "BEAN",
+      "name_us": "Bean Stitch",
+      "name_uk": "Bean Stitch",
+      "category": "specialty",
+      "difficulty": "3",
+      "description": "Small raised texture stitch",
+      "symbol": "bean",
+      "tags": [
+        "specialty",
+        "texture",
+        "raised"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278459"
+    },
+    {
+      "id": "BERRY",
+      "name_us": "Berry Stitch",
+      "name_uk": "Berry Stitch",
+      "category": "specialty",
+      "difficulty": "3",
+      "description": "Trinity stitch variation creating berries",
+      "symbol": "berry",
+      "tags": [
+        "specialty",
+        "texture",
+        "bobble"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278461"
+    },
+    {
+      "id": "CROCODILE",
+      "name_us": "Crocodile Stitch",
+      "name_uk": "Crocodile Stitch",
+      "category": "specialty",
+      "difficulty": "3",
+      "description": "Creates scale-like layered texture",
+      "symbol": "croc",
+      "tags": [
+        "specialty",
+        "texture",
+        "scales"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278463"
+    },
+    {
+      "id": "DIAMOND",
+      "name_us": "Diamond Stitch",
+      "name_uk": "Diamond Stitch",
+      "category": "specialty",
+      "difficulty": "3",
+      "description": "Creates diamond-shaped texture",
+      "symbol": "diam",
+      "tags": [
+        "specialty",
+        "texture",
+        "geometric"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278466"
+    },
+    {
+      "id": "HERRINGBONE",
+      "name_us": "Herringbone Stitch",
+      "name_uk": "Herringbone Stitch",
+      "category": "specialty",
+      "difficulty": "3",
+      "description": "Creates diagonal zigzag pattern",
+      "symbol": "hbone",
+      "tags": [
+        "specialty",
+        "texture",
+        "diagonal"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278468"
+    },
+    {
+      "id": "JASMINE",
+      "name_us": "Jasmine Stitch",
+      "name_uk": "Jasmine Stitch",
+      "category": "specialty",
+      "difficulty": "3",
+      "description": "Dense puff stitch creating flowers",
+      "symbol": "jas",
+      "tags": [
+        "specialty",
+        "texture",
+        "puff"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278470"
+    },
+    {
+      "id": "LARKSFOOT",
+      "name_us": "Larksfoot Stitch",
+      "name_uk": "Larksfoot Stitch",
+      "category": "specialty",
+      "difficulty": "3",
+      "description": "Long spike stitches forming V shapes",
+      "symbol": "lfoot",
+      "tags": [
+        "specialty",
+        "texture",
+        "spike"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278473"
+    },
+    {
+      "id": "TRINITY",
+      "name_us": "Trinity Stitch",
+      "name_uk": "Trinity Stitch",
+      "category": "specialty",
+      "difficulty": "3",
+      "description": "Three stitches worked together repeatedly",
+      "symbol": "trin",
+      "tags": [
+        "specialty",
+        "texture",
+        "cluster"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Blankets, Sweaters, Home decor",
+      "updated": "2025-07-11T01:16:57.278475"
+    },
+    {
+      "id": "RAGLAN",
+      "name_us": "Raglan Shaping",
+      "name_uk": "Raglan Shaping",
+      "category": "garment",
+      "difficulty": "3",
+      "description": "Diagonal sleeve shaping from neck",
+      "symbol": "rag",
+      "tags": [
+        "garment",
+        "shaping",
+        "sleeve"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278478"
+    },
+    {
+      "id": "SET-IN",
+      "name_us": "Set-In Sleeve",
+      "name_uk": "Set-In Sleeve",
+      "category": "garment",
+      "difficulty": "2",
+      "description": "Traditional fitted sleeve construction",
+      "symbol": "setin",
+      "tags": [
+        "garment",
+        "construction",
+        "sleeve"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278481"
+    },
+    {
+      "id": "DROP-SHOULDER",
+      "name_us": "Drop Shoulder",
+      "name_uk": "Drop Shoulder",
+      "category": "garment",
+      "difficulty": "2",
+      "description": "Simple straight sleeve construction",
+      "symbol": "drop",
+      "tags": [
+        "garment",
+        "construction",
+        "sleeve"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278483"
+    },
+    {
+      "id": "YOKE",
+      "name_us": "Yoke",
+      "name_uk": "Yoke",
+      "category": "garment",
+      "difficulty": "2",
+      "description": "Upper portion of seamless garment",
+      "symbol": "yoke",
+      "tags": [
+        "garment",
+        "construction",
+        "seamless"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278485"
+    },
+    {
+      "id": "SHORT-ROW",
+      "name_us": "Short Row Shaping",
+      "name_uk": "Short Row Shaping",
+      "category": "garment",
+      "difficulty": "3",
+      "description": "Partial rows for shaping",
+      "symbol": "short",
+      "tags": [
+        "garment",
+        "shaping",
+        "technique"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278488"
+    },
+    {
+      "id": "STEEK",
+      "name_us": "Steek",
+      "name_uk": "Steek",
+      "category": "garment",
+      "difficulty": "2",
+      "description": "Extra stitches for cutting openings",
+      "symbol": "steek",
+      "tags": [
+        "garment",
+        "cutting",
+        "colorwork"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278490"
+    },
+    {
+      "id": "WAIST-SHAPING",
+      "name_us": "Waist Shaping",
+      "name_uk": "Waist Shaping",
+      "category": "garment",
+      "difficulty": "3",
+      "description": "Decreases and increases for fitted waist",
+      "symbol": "waist",
+      "tags": [
+        "garment",
+        "shaping",
+        "fit"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278492"
+    },
+    {
+      "id": "BUST-DART",
+      "name_us": "Bust Dart",
+      "name_uk": "Bust Dart",
+      "category": "garment",
+      "difficulty": "3",
+      "description": "Short rows for bust shaping",
+      "symbol": "dart",
+      "tags": [
+        "garment",
+        "shaping",
+        "fit"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278495"
+    },
+    {
+      "id": "SABLE",
+      "name_us": "SABLE",
+      "name_uk": "SABLE",
+      "category": "slang",
+      "difficulty": "2",
+      "description": "Stash Acquisition Beyond Life Expectancy",
+      "symbol": "sable",
+      "tags": [
+        "slang",
+        "stash",
+        "humor"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278498"
+    },
+    {
+      "id": "TINK",
+      "name_us": "Tink",
+      "name_uk": "Tink",
+      "category": "slang",
+      "difficulty": "2",
+      "description": "Undo stitches one at a time (knit backwards)",
+      "symbol": "tink",
+      "tags": [
+        "slang",
+        "undo",
+        "backwards"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278500"
+    },
+    {
+      "id": "UFO",
+      "name_us": "UFO",
+      "name_uk": "UFO",
+      "category": "slang",
+      "difficulty": "2",
+      "description": "UnFinished Object",
+      "symbol": "ufo",
+      "tags": [
+        "slang",
+        "project",
+        "unfinished"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278503"
+    },
+    {
+      "id": "HOTH",
+      "name_us": "HOTH",
+      "name_uk": "HOTH",
+      "category": "slang",
+      "difficulty": "2",
+      "description": "Hot Off The Hook",
+      "symbol": "hoth",
+      "tags": [
+        "slang",
+        "project",
+        "hot"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278505"
+    },
+    {
+      "id": "CAL",
+      "name_us": "CAL",
+      "name_uk": "CAL",
+      "category": "slang",
+      "difficulty": "2",
+      "description": "Crochet-Along (group project)",
+      "symbol": "cal",
+      "tags": [
+        "slang",
+        "community",
+        "project"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278508"
+    },
+    {
+      "id": "STASH-BUSTER",
+      "name_us": "Stash Buster",
+      "name_uk": "Stash Buster",
+      "category": "slang",
+      "difficulty": "2",
+      "description": "Project using up stored yarn",
+      "symbol": "sbust",
+      "tags": [
+        "slang",
+        "project",
+        "yarn-usage"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278510"
+    },
+    {
+      "id": "AMISH-KNOT",
+      "name_us": "Amish Knot",
+      "name_uk": "Amish Knot",
+      "category": "regional",
+      "difficulty": "2",
+      "description": "Traditional invisible joining method",
+      "symbol": "amish",
+      "tags": [
+        "regional",
+        "traditional",
+        "joining"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278512"
+    },
+    {
+      "id": "RUSSIAN-JOIN",
+      "name_us": "Russian Join",
+      "name_uk": "Russian Join",
+      "category": "regional",
+      "difficulty": "2",
+      "description": "Splicing yarn ends by weaving",
+      "symbol": "rjoin",
+      "tags": [
+        "regional",
+        "joining",
+        "invisible"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278515"
+    },
+    {
+      "id": "CELTIC-WEAVE",
+      "name_us": "Celtic Weave",
+      "name_uk": "Celtic Weave",
+      "category": "regional",
+      "difficulty": "2",
+      "description": "Complex cable patterns from Celtic tradition",
+      "symbol": "celtic",
+      "tags": [
+        "regional",
+        "cables",
+        "traditional"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278517"
+    },
+    {
+      "id": "JAPANESE-FLOWER",
+      "name_us": "Japanese Flower",
+      "name_uk": "Japanese Flower",
+      "category": "regional",
+      "difficulty": "2",
+      "description": "Delicate flower motifs from Japanese patterns",
+      "symbol": "jflower",
+      "tags": [
+        "regional",
+        "motif",
+        "decorative"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278520"
+    },
+    {
+      "id": "NORDIC-STAR",
+      "name_us": "Nordic Star",
+      "name_uk": "Nordic Star",
+      "category": "regional",
+      "difficulty": "2",
+      "description": "Star patterns from Scandinavian tradition",
+      "symbol": "nstar",
+      "tags": [
+        "regional",
+        "colorwork",
+        "traditional"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278522"
+    },
+    {
+      "id": "PERUVIAN-BRAID",
+      "name_us": "Peruvian Braid",
+      "name_uk": "Peruvian Braid",
+      "category": "regional",
+      "difficulty": "2",
+      "description": "Decorative braided edge from Peru",
+      "symbol": "pbraid",
+      "tags": [
+        "regional",
+        "edging",
+        "decorative"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278525"
+    },
+    {
+      "id": "AFRICAN-FLOWER",
+      "name_us": "African Flower",
+      "name_uk": "African Flower",
+      "category": "regional",
+      "difficulty": "2",
+      "description": "Hexagonal motif popular in African crafts",
+      "symbol": "aflower",
+      "tags": [
+        "regional",
+        "hexagon",
+        "motif"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278527"
+    },
+    {
+      "id": "TURKISH-CAST-ON",
+      "name_us": "Turkish Cast On",
+      "name_uk": "Turkish Cast On",
+      "category": "regional",
+      "difficulty": "2",
+      "description": "Provisional cast on from Turkish tradition",
+      "symbol": "tcast",
+      "tags": [
+        "regional",
+        "provisional",
+        "technique"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278529"
+    },
+    {
+      "id": "FIBONACCI",
+      "name_us": "Fibonacci Sequence",
+      "name_uk": "Fibonacci Sequence",
+      "category": "mathematical",
+      "difficulty": "2",
+      "description": "Using Fibonacci numbers for stripe sequences",
+      "symbol": "fib",
+      "tags": [
+        "mathematical",
+        "sequence",
+        "striping"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278532"
+    },
+    {
+      "id": "FRACTAL",
+      "name_us": "Fractal Crochet",
+      "name_uk": "Fractal Crochet",
+      "category": "mathematical",
+      "difficulty": "2",
+      "description": "Mathematical patterns creating fractals",
+      "symbol": "fract",
+      "tags": [
+        "mathematical",
+        "geometric",
+        "art"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278534"
+    },
+    {
+      "id": "HYPERBOLIC",
+      "name_us": "Hyperbolic Crochet",
+      "name_uk": "Hyperbolic Crochet",
+      "category": "mathematical",
+      "difficulty": "2",
+      "description": "Exponential increases creating ruffled forms",
+      "symbol": "hyper",
+      "tags": [
+        "mathematical",
+        "coral-reef",
+        "sculptural"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278537"
+    },
+    {
+      "id": "TESSELLATION",
+      "name_us": "Tessellation",
+      "name_uk": "Tessellation",
+      "category": "mathematical",
+      "difficulty": "2",
+      "description": "Repeating shapes with no gaps",
+      "symbol": "tess",
+      "tags": [
+        "mathematical",
+        "repeating",
+        "pattern"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278539"
+    },
+    {
+      "id": "GOLDEN-RATIO",
+      "name_us": "Golden Ratio",
+      "name_uk": "Golden Ratio",
+      "category": "mathematical",
+      "difficulty": "2",
+      "description": "Using 1.618 ratio in design proportions",
+      "symbol": "golden",
+      "tags": [
+        "mathematical",
+        "proportion",
+        "design"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278541"
+    },
+    {
+      "id": "MODULAR",
+      "name_us": "Modular Construction",
+      "name_uk": "Modular Construction",
+      "category": "mathematical",
+      "difficulty": "2",
+      "description": "Building with repeated geometric units",
+      "symbol": "mod",
+      "tags": [
+        "mathematical",
+        "construction",
+        "units"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278544"
+    },
+    {
+      "id": "MITERED",
+      "name_us": "Mitered Square",
+      "name_uk": "Mitred Square",
+      "category": "mathematical",
+      "difficulty": "2",
+      "description": "Square worked from corner to corner",
+      "symbol": "miter",
+      "tags": [
+        "mathematical",
+        "square",
+        "diagonal"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278546"
+    },
+    {
+      "id": "SURFACE-SLIP",
+      "name_us": "Surface Slip Stitch",
+      "name_uk": "Surface Slip Stitch",
+      "category": "embellishment",
+      "difficulty": "2",
+      "description": "Slip stitch worked on fabric surface",
+      "symbol": "sslip",
+      "tags": [
+        "embellishment",
+        "surface",
+        "decorative"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278549"
+    },
+    {
+      "id": "SURFACE-CHAIN",
+      "name_us": "Surface Chain",
+      "name_uk": "Surface Chain",
+      "category": "embellishment",
+      "difficulty": "2",
+      "description": "Chain stitch embroidery on crochet",
+      "symbol": "schain",
+      "tags": [
+        "embellishment",
+        "surface",
+        "decorative"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278551"
+    },
+    {
+      "id": "APPLIQUE",
+      "name_us": "Applique",
+      "name_uk": "Applique",
+      "category": "embellishment",
+      "difficulty": "2",
+      "description": "Attaching separate motifs to base",
+      "symbol": "app",
+      "tags": [
+        "embellishment",
+        "motif",
+        "sewing"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278554"
+    },
+    {
+      "id": "FRINGE",
+      "name_us": "Fringe",
+      "name_uk": "Fringe",
+      "category": "embellishment",
+      "difficulty": "2",
+      "description": "Cut yarn strands attached to edge",
+      "symbol": "fringe",
+      "tags": [
+        "embellishment",
+        "edge",
+        "decorative"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278556"
+    },
+    {
+      "id": "TASSEL",
+      "name_us": "Tassel",
+      "name_uk": "Tassel",
+      "category": "embellishment",
+      "difficulty": "2",
+      "description": "Bundled yarn decoration",
+      "symbol": "tassel",
+      "tags": [
+        "embellishment",
+        "decorative",
+        "accent"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278558"
+    },
+    {
+      "id": "POM-POM",
+      "name_us": "Pom Pom",
+      "name_uk": "Pom Pom",
+      "category": "embellishment",
+      "difficulty": "2",
+      "description": "Fluffy ball decoration",
+      "symbol": "pom",
+      "tags": [
+        "embellishment",
+        "decorative",
+        "accent"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278561"
+    },
+    {
+      "id": "BEAD-CROCHET",
+      "name_us": "Bead Crochet",
+      "name_uk": "Bead Crochet",
+      "category": "embellishment",
+      "difficulty": "2",
+      "description": "Incorporating beads into crochet",
+      "symbol": "bead",
+      "tags": [
+        "embellishment",
+        "beads",
+        "jewelry"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278563"
+    },
+    {
+      "id": "SEQUIN",
+      "name_us": "Sequin Application",
+      "name_uk": "Sequin Application",
+      "category": "embellishment",
+      "difficulty": "2",
+      "description": "Adding sequins to crochet work",
+      "symbol": "seq",
+      "tags": [
+        "embellishment",
+        "sparkle",
+        "decorative"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278566"
+    },
+    {
+      "id": "WET-BLOCK",
+      "name_us": "Wet Blocking",
+      "name_uk": "Wet Blocking",
+      "category": "finishing",
+      "difficulty": "3",
+      "description": "Soaking and pinning to shape",
+      "symbol": "wetb",
+      "tags": [
+        "finishing",
+        "blocking",
+        "shaping"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278568"
+    },
+    {
+      "id": "STEAM-BLOCK",
+      "name_us": "Steam Blocking",
+      "name_uk": "Steam Blocking",
+      "category": "finishing",
+      "difficulty": "3",
+      "description": "Using steam to set shape",
+      "symbol": "steam",
+      "tags": [
+        "finishing",
+        "blocking",
+        "shaping"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278570"
+    },
+    {
+      "id": "SPRAY-BLOCK",
+      "name_us": "Spray Blocking",
+      "name_uk": "Spray Blocking",
+      "category": "finishing",
+      "difficulty": "2",
+      "description": "Light misting for delicate fibers",
+      "symbol": "spray",
+      "tags": [
+        "finishing",
+        "blocking",
+        "gentle"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278573"
+    },
+    {
+      "id": "FELTING",
+      "name_us": "Felting",
+      "name_uk": "Felting",
+      "category": "finishing",
+      "difficulty": "2",
+      "description": "Intentionally shrinking wool fabric",
+      "symbol": "felt",
+      "tags": [
+        "finishing",
+        "shrinking",
+        "wool"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278575"
+    },
+    {
+      "id": "FULLING",
+      "name_us": "Fulling",
+      "name_uk": "Fulling",
+      "category": "finishing",
+      "difficulty": "2",
+      "description": "Controlled felting process",
+      "symbol": "full",
+      "tags": [
+        "finishing",
+        "controlled-felting",
+        "wool"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278582"
+    },
+    {
+      "id": "STARCH",
+      "name_us": "Starching",
+      "name_uk": "Starching",
+      "category": "finishing",
+      "difficulty": "2",
+      "description": "Stiffening with starch solution",
+      "symbol": "starch",
+      "tags": [
+        "finishing",
+        "stiffening",
+        "doilies"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278584"
+    },
+    {
+      "id": "KNOOKING",
+      "name_us": "Knooking",
+      "name_uk": "Knooking",
+      "category": "hybrid",
+      "difficulty": "2",
+      "description": "Knitting with a crochet hook",
+      "symbol": "knook",
+      "tags": [
+        "hybrid",
+        "knit-look",
+        "modern"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278587"
+    },
+    {
+      "id": "CROCHET-KNIT",
+      "name_us": "Crochet-Knit Combo",
+      "name_uk": "Crochet-Knit Combo",
+      "category": "hybrid",
+      "difficulty": "2",
+      "description": "Combining crochet and knitting",
+      "symbol": "combo",
+      "tags": [
+        "hybrid",
+        "mixed-media",
+        "modern"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278589"
+    },
+    {
+      "id": "BROOMSTICK",
+      "name_us": "Broomstick Lace",
+      "name_uk": "Broomstick Lace",
+      "category": "hybrid",
+      "difficulty": "4",
+      "description": "Using large needle with crochet hook",
+      "symbol": "broom",
+      "tags": [
+        "hybrid",
+        "lace",
+        "vintage"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278592"
+    },
+    {
+      "id": "HAIRPIN",
+      "name_us": "Hairpin Lace",
+      "name_uk": "Hairpin Lace",
+      "category": "hybrid",
+      "difficulty": "4",
+      "description": "Lace strips made on hairpin loom",
+      "symbol": "hair",
+      "tags": [
+        "hybrid",
+        "lace",
+        "strips"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Shawls, Doilies, Lightweight garments",
+      "updated": "2025-07-11T01:16:57.278607"
+    },
+    {
+      "id": "LOOP-YARN",
+      "name_us": "Loop Yarn Crochet",
+      "name_uk": "Loop Yarn Crochet",
+      "category": "hybrid",
+      "difficulty": "2",
+      "description": "Working with pre-looped yarn",
+      "symbol": "loopy",
+      "tags": [
+        "hybrid",
+        "specialty-yarn",
+        "modern"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278610"
+    },
+    {
+      "id": "TENSION-RING",
+      "name_us": "Tension Ring",
+      "name_uk": "Yarn Guide",
+      "category": "troubleshooting",
+      "difficulty": "2",
+      "description": "Ring to maintain consistent tension",
+      "symbol": "tring",
+      "tags": [
+        "troubleshooting",
+        "tool",
+        "tension"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278613"
+    },
+    {
+      "id": "SPLIT-YARN",
+      "name_us": "Split Yarn",
+      "name_uk": "Split Yarn",
+      "category": "troubleshooting",
+      "difficulty": "2",
+      "description": "When hook splits yarn strands",
+      "symbol": "split",
+      "tags": [
+        "troubleshooting",
+        "problem",
+        "yarn"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278615"
+    },
+    {
+      "id": "TWISTED-CHAIN",
+      "name_us": "Twisted Chain",
+      "name_uk": "Twisted Chain",
+      "category": "troubleshooting",
+      "difficulty": "1",
+      "description": "Foundation chain that spirals",
+      "symbol": "twist",
+      "tags": [
+        "troubleshooting",
+        "problem",
+        "foundation"
+      ],
+      "time_to_learn": "15-30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278618"
+    },
+    {
+      "id": "CURLING-EDGE",
+      "name_us": "Curling Edge",
+      "name_uk": "Curling Edge",
+      "category": "troubleshooting",
+      "difficulty": "2",
+      "description": "Edges that roll or curl",
+      "symbol": "curl",
+      "tags": [
+        "troubleshooting",
+        "problem",
+        "edge"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278620"
+    },
+    {
+      "id": "YARN-CHICKEN",
+      "name_us": "Playing Yarn Chicken",
+      "name_uk": "Playing Yarn Chicken",
+      "category": "troubleshooting",
+      "difficulty": "2",
+      "description": "Hoping to finish before yarn runs out",
+      "symbol": "chicken",
+      "tags": [
+        "troubleshooting",
+        "yarn-shortage",
+        "gamble"
+      ],
+      "time_to_learn": "30 minutes",
+      "best_for": "Various projects",
+      "updated": "2025-07-11T01:16:57.278623"
+    },
+    {
+      "id": "FOTH",
+      "name_us": "Fresh Off The Hook",
+      "name_uk": "Fresh Off The Hook",
+      "category": "slang",
+      "difficulty": "1",
+      "description": "Alternative to HOTH - newly completed crochet project",
+      "symbol": "FOTH",
+      "tags": [
+        "community",
+        "finished",
+        "pride"
+      ],
+      "time_to_learn": "Instant",
+      "best_for": "Social media posts",
+      "updated": "2025-07-11T01:16:57.278644"
+    },
+    {
+      "id": "HOOKER",
+      "name_us": "Hooker",
+      "name_uk": "Hooker",
+      "category": "slang",
+      "difficulty": "1",
+      "description": "Playful term for someone who crochets (uses a hook)",
+      "symbol": "Hooker",
+      "tags": [
+        "community",
+        "humor",
+        "crocheter"
+      ],
+      "time_to_learn": "Instant",
+      "best_for": "Community identification",
+      "updated": "2025-07-11T01:16:57.278650"
+    },
+    {
+      "id": "OCD",
+      "name_us": "Obsessive Crocheting Disorder",
+      "name_uk": "Obsessive Crocheting Disorder",
+      "category": "slang",
+      "difficulty": "1",
+      "description": "Humorous term for compulsive need to crochet",
+      "symbol": "OCD",
+      "tags": [
+        "community",
+        "humor",
+        "addiction"
+      ],
+      "time_to_learn": "Instant",
+      "best_for": "Explaining yarn purchases",
+      "updated": "2025-07-11T01:16:57.278655"
+    },
+    {
+      "id": "CIP",
+      "name_us": "Crochet In Public",
+      "name_uk": "Crochet In Public",
+      "category": "slang",
+      "difficulty": "1",
+      "description": "Taking your crochet project out in public spaces",
+      "symbol": "CIP",
+      "tags": [
+        "community",
+        "social",
+        "portable"
+      ],
+      "time_to_learn": "Instant",
+      "best_for": "Waiting rooms, commutes, cafes",
+      "updated": "2025-07-11T01:16:57.278660"
+    },
+    {
+      "id": "TALC",
+      "name_us": "Take Along Crochet",
+      "name_uk": "Take Along Crochet",
+      "category": "slang",
+      "difficulty": "1",
+      "description": "Portable project perfect for travel",
+      "symbol": "TALC",
+      "tags": [
+        "community",
+        "portable",
+        "travel"
+      ],
+      "time_to_learn": "Instant",
+      "best_for": "Travel, waiting, social events",
+      "updated": "2025-07-11T01:16:57.278665"
+    },
+    {
+      "id": "PIGS",
+      "name_us": "Projects In Grocery Sacks",
+      "name_uk": "Projects In Grocery Sacks",
+      "category": "slang",
+      "difficulty": "1",
+      "description": "Crochet projects stored in grocery bags",
+      "symbol": "PIGS",
+      "tags": [
+        "community",
+        "storage",
+        "humor"
+      ],
+      "time_to_learn": "Instant",
+      "best_for": "Emergency project storage",
+      "updated": "2025-07-11T01:16:57.278671"
+    },
+    {
+      "id": "PHD",
+      "name_us": "Projects Half Done",
+      "name_uk": "Projects Half Done",
+      "category": "slang",
+      "difficulty": "1",
+      "description": "Multiple crochet projects at 50% completion",
+      "symbol": "PHD",
+      "tags": [
+        "community",
+        "wip",
+        "incomplete"
+      ],
+      "time_to_learn": "Instant",
+      "best_for": "Describing your project pile",
+      "updated": "2025-07-11T01:16:57.278676"
+    },
+    {
+      "id": "TOAD",
+      "name_us": "Trashed Object Abandoned in Disgust",
+      "name_uk": "Trashed Object Abandoned in Disgust",
+      "category": "slang",
+      "difficulty": "1",
+      "description": "Project so frustrating you gave up completely",
+      "symbol": "TOAD",
+      "tags": [
+        "community",
+        "abandoned",
+        "frustration"
+      ],
+      "time_to_learn": "Instant",
+      "best_for": "Venting frustration",
+      "updated": "2025-07-11T01:16:57.278760"
+    },
+    {
+      "id": "CROJO",
+      "name_us": "Crochet Mojo",
+      "name_uk": "Crochet Mojo",
+      "category": "slang",
+      "difficulty": "1",
+      "description": "Your crochet motivation and creative energy",
+      "symbol": "Crojo",
+      "tags": [
+        "community",
+        "motivation",
+        "inspiration"
+      ],
+      "time_to_learn": "Instant",
+      "best_for": "Describing creative flow",
+      "updated": "2025-07-11T01:16:57.278766"
+    },
+    {
+      "id": "ENTRELAC",
+      "name_us": "Entrelac Crochet",
+      "name_uk": "Entrelac Crochet",
+      "category": "technique",
+      "difficulty": "4",
+      "description": "Creates interlocking diamond pattern using Tunisian crochet base",
+      "symbol": "entrelac",
+      "tags": [
+        "advanced",
+        "tunisian",
+        "basketweave"
+      ],
+      "time_to_learn": "2-3 hours",
+      "best_for": "Blankets, Scarves, Vests",
+      "updated": "2025-07-11T01:16:57.278769"
+    },
+    {
+      "id": "WIRE-CROCHET",
+      "name_us": "Wire Crochet",
+      "name_uk": "Wire Crochet",
+      "category": "technique",
+      "difficulty": "3",
+      "description": "Using wire instead of yarn for sculptural pieces",
+      "symbol": "wire",
+      "tags": [
+        "specialty",
+        "jewelry",
+        "sculpture"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Jewelry, Sculptures, Art pieces",
+      "updated": "2025-07-11T01:16:57.278791"
+    },
+    {
+      "id": "LINKED-DC",
+      "name_us": "Linked Double Crochet",
+      "name_uk": "Linked Treble Crochet",
+      "category": "stitch",
+      "difficulty": "3",
+      "description": "Double crochets linked through horizontal bars for denser fabric",
+      "symbol": "ldc",
+      "tags": [
+        "intermediate",
+        "texture",
+        "dense"
+      ],
+      "time_to_learn": "30-60 minutes",
+      "best_for": "Garments, Bags, Structured items",
+      "updated": "2025-07-11T01:16:57.278798"
+    },
+    {
+      "id": "FDC",
+      "name_us": "Foundation Double Crochet",
+      "name_uk": "Foundation Treble Crochet",
+      "category": "foundation",
+      "difficulty": "3",
+      "description": "Creates foundation chain and first row of DC simultaneously",
+      "symbol": "fdc",
+      "tags": [
+        "intermediate",
+        "foundation",
+        "stretchy"
+      ],
+      "time_to_learn": "45-60 minutes",
+      "best_for": "Garment edges, Blanket starts",
+      "updated": "2025-07-11T01:16:57.278803"
+    },
+    {
+      "id": "LOOP-ST",
+      "name_us": "Loop Stitch",
+      "name_uk": "Loop Stitch",
+      "category": "stitch",
+      "difficulty": "3",
+      "description": "Creates loops on surface for fur or fringe effect",
+      "symbol": "loop",
+      "tags": [
+        "intermediate",
+        "texture",
+        "fur"
+      ],
+      "time_to_learn": "30-45 minutes",
+      "best_for": "Fur texture, Rugs, Hair on amigurumi",
+      "updated": "2025-07-11T01:16:57.278808"
+    },
+    {
+      "id": "SURFACE-CROCHET",
+      "name_us": "Surface Crochet",
+      "name_uk": "Surface Crochet",
+      "category": "technique",
+      "difficulty": "2",
+      "description": "Working slip stitch on top of finished fabric",
+      "symbol": "surface",
+      "tags": [
+        "decorative",
+        "embellishment",
+        "design"
+      ],
+      "time_to_learn": "20-30 minutes",
+      "best_for": "Adding designs, Letters, Embellishment",
+      "updated": "2025-07-11T01:16:57.278813"
+    },
+    {
+      "id": "CHAINLESS-FOUNDATION",
+      "name_us": "Chainless Foundation",
+      "name_uk": "Chainless Foundation",
+      "category": "foundation",
+      "difficulty": "4",
+      "description": "Starting projects without traditional chain foundation",
+      "symbol": "chainless",
+      "tags": [
+        "advanced",
+        "foundation",
+        "alternative"
+      ],
+      "time_to_learn": "1-2 hours",
+      "best_for": "Circular projects, Advanced patterns",
+      "updated": "2025-07-11T01:16:57.278818"
+    }
+  ]
+}

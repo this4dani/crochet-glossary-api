@@ -1,0 +1,662 @@
+{
+  "meta": {
+    "total_questions": 50,
+    "question_types": [
+      "multiple_choice"
+    ],
+    "last_updated": "2025-07-11T01:16:57.312462",
+    "version": "1.0.0"
+  },
+  "data": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'SN' stand for?",
+      "options": [
+        "Slip Knot"
+      ],
+      "correct_answer": "Slip Knot",
+      "explanation": "The first loop on the hook to begin any crochet project.",
+      "term_id": "SN"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'CH' stand for?",
+      "options": [
+        "Chain Stitch"
+      ],
+      "correct_answer": "Chain Stitch",
+      "explanation": "Starting point for most crochet projects. Forms the foundation row.",
+      "term_id": "CH"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'SLST' stand for?",
+      "options": [
+        "Slip Stitch"
+      ],
+      "correct_answer": "Slip Stitch",
+      "explanation": "Used for joining, moving across stitches, or finishing.",
+      "term_id": "SLST"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'SC' stand for?",
+      "options": [
+        "Single Crochet"
+      ],
+      "correct_answer": "Single Crochet",
+      "explanation": "Foundation stitch, creates tight fabric. Essential for amigurumi.",
+      "term_id": "SC"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'HDC' stand for?",
+      "options": [
+        "Half Double Crochet"
+      ],
+      "correct_answer": "Half Double Crochet",
+      "explanation": "Medium height stitch between single and double crochet.",
+      "term_id": "HDC"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'DC' stand for?",
+      "options": [
+        "Double Crochet"
+      ],
+      "correct_answer": "Double Crochet",
+      "explanation": "Taller stitch for height and drape. Very versatile.",
+      "term_id": "DC"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'TR' stand for?",
+      "options": [
+        "Treble Crochet"
+      ],
+      "correct_answer": "Treble Crochet",
+      "explanation": "Used for tall rows and lacy, open fabric.",
+      "term_id": "TR"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'INC' stand for?",
+      "options": [
+        "Increase"
+      ],
+      "correct_answer": "Increase",
+      "explanation": "Adds stitches to widen a row or round.",
+      "term_id": "INC"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'DEC' stand for?",
+      "options": [
+        "Decrease"
+      ],
+      "correct_answer": "Decrease",
+      "explanation": "Combines stitches together to reduce width.",
+      "term_id": "DEC"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'MR' stand for?",
+      "options": [
+        "Magic Ring"
+      ],
+      "correct_answer": "Magic Ring",
+      "explanation": "Adjustable loop technique for starting projects in the round.",
+      "term_id": "MR"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Foundation",
+      "question": "What does 'FSC' stand for?",
+      "options": [
+        "Foundation Single Crochet"
+      ],
+      "correct_answer": "Foundation Single Crochet",
+      "explanation": "Combines foundation chain and first row in one step.",
+      "term_id": "FSC"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Foundation",
+      "question": "What does 'FHDC' stand for?",
+      "options": [
+        "Foundation Half Double Crochet"
+      ],
+      "correct_answer": "Foundation Half Double Crochet",
+      "explanation": "Combines foundation chain and first row of hdc in one step.",
+      "term_id": "FHDC"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'BLO' stand for?",
+      "options": [
+        "Back Loop Only"
+      ],
+      "correct_answer": "Back Loop Only",
+      "explanation": "Stitch worked only into the back loop for texture effects.",
+      "term_id": "BLO"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'FLO' stand for?",
+      "options": [
+        "Front Loop Only"
+      ],
+      "correct_answer": "Front Loop Only",
+      "explanation": "Stitch worked only into the front loop for ribbing effects.",
+      "term_id": "FLO"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'FPDC' stand for?",
+      "options": [
+        "Front Post Double Crochet"
+      ],
+      "correct_answer": "Front Post Double Crochet",
+      "explanation": "Creates raised vertical lines, perfect for ribbing effects.",
+      "term_id": "FPDC"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'BPDC' stand for?",
+      "options": [
+        "Back Post Double Crochet"
+      ],
+      "correct_answer": "Back Post Double Crochet",
+      "explanation": "Works with FPDC to create dimensional ribbing and cables.",
+      "term_id": "BPDC"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'FPTR' stand for?",
+      "options": [
+        "Front Post Treble Crochet"
+      ],
+      "correct_answer": "Front Post Treble Crochet",
+      "explanation": "A tall stitch worked around the post from the front.",
+      "term_id": "FPTR"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'BPTR' stand for?",
+      "options": [
+        "Back Post Treble Crochet"
+      ],
+      "correct_answer": "Back Post Treble Crochet",
+      "explanation": "A tall stitch worked around the post from the back.",
+      "term_id": "BPTR"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'POP' stand for?",
+      "options": [
+        "Popcorn Stitch"
+      ],
+      "correct_answer": "Popcorn Stitch",
+      "explanation": "Creates a puffed, round shape that stands out from the fabric.",
+      "term_id": "POP"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'PUFF' stand for?",
+      "options": [
+        "Puff Stitch"
+      ],
+      "correct_answer": "Puff Stitch",
+      "explanation": "Creates a soft, puffy texture; different from popcorn.",
+      "term_id": "PUFF"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'CL' stand for?",
+      "options": [
+        "Cluster Stitch"
+      ],
+      "correct_answer": "Cluster Stitch",
+      "explanation": "Multiple stitches worked into same base, creating dense texture.",
+      "term_id": "CL"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Other",
+      "question": "What does 'VST' stand for?",
+      "options": [
+        "V-Stitch"
+      ],
+      "correct_answer": "V-Stitch",
+      "explanation": "Two stitches worked in the same space, forming a V-shape.",
+      "term_id": "VST"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Other",
+      "question": "What does 'SHELL' stand for?",
+      "options": [
+        "Shell Stitch"
+      ],
+      "correct_answer": "Shell Stitch",
+      "explanation": "Multiple stitches worked into one space to create a fan shape.",
+      "term_id": "SHELL"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'XST' stand for?",
+      "options": [
+        "Crossed Double Crochet"
+      ],
+      "correct_answer": "Crossed Double Crochet",
+      "explanation": "Creates a crossed or twisted visual effect.",
+      "term_id": "XST"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "difficulty": "4",
+      "category": "Other",
+      "question": "What does 'SPK' stand for?",
+      "options": [
+        "Spike Stitch"
+      ],
+      "correct_answer": "Spike Stitch",
+      "explanation": "Inserted into a row below the current one to elongate the effect.",
+      "term_id": "SPK"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Other",
+      "question": "What does 'EXDC' stand for?",
+      "options": [
+        "Extended Double Crochet"
+      ],
+      "correct_answer": "Extended Double Crochet",
+      "explanation": "A slightly taller and looser double crochet stitch.",
+      "term_id": "EXDC"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'MOSS' stand for?",
+      "options": [
+        "Moss Stitch"
+      ],
+      "correct_answer": "Moss Stitch",
+      "explanation": "Alternating single crochet and chain stitches for texture.",
+      "term_id": "MOSS"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Other",
+      "question": "What does 'PICOT' stand for?",
+      "options": [
+        "Picot Stitch"
+      ],
+      "correct_answer": "Picot Stitch",
+      "explanation": "Tiny loops often used to finish borders or create texture.",
+      "term_id": "PICOT"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "difficulty": "4",
+      "category": "Other",
+      "question": "What does 'SOL' stand for?",
+      "options": [
+        "Solomon's Knot"
+      ],
+      "correct_answer": "Solomon's Knot",
+      "explanation": "Large openwork knot made from elongated chains, also called Lover's Knot.",
+      "term_id": "SOL"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "difficulty": "4",
+      "category": "Other",
+      "question": "What does 'TSS' stand for?",
+      "options": [
+        "Tunisian Simple Stitch"
+      ],
+      "correct_answer": "Tunisian Simple Stitch",
+      "explanation": "Basic Tunisian stitch worked vertically.",
+      "term_id": "TSS"
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "difficulty": "4",
+      "category": "Other",
+      "question": "What does 'TKS' stand for?",
+      "options": [
+        "Tunisian Knit Stitch"
+      ],
+      "correct_answer": "Tunisian Knit Stitch",
+      "explanation": "Resembles knitted fabric; pulled through vertical bars.",
+      "term_id": "TKS"
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Texture",
+      "question": "What does 'TPS' stand for?",
+      "options": [
+        "Tunisian Purl Stitch"
+      ],
+      "correct_answer": "Tunisian Purl Stitch",
+      "explanation": "Creates a bumpy texture similar to purl in knitting.",
+      "term_id": "TPS"
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'TURN' stand for?",
+      "options": [
+        "Turning Chain"
+      ],
+      "correct_answer": "Turning Chain",
+      "explanation": "Used at the start of a new row to bring hook to proper height.",
+      "term_id": "TURN"
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'JOIN' stand for?",
+      "options": [
+        "Join with Slip Stitch"
+      ],
+      "correct_answer": "Join with Slip Stitch",
+      "explanation": "Used to join the end of a round to the beginning.",
+      "term_id": "JOIN"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "difficulty": "2",
+      "category": "Other",
+      "question": "What does 'WW' stand for?",
+      "options": [
+        "Worsted Weight"
+      ],
+      "correct_answer": "Worsted Weight",
+      "explanation": "Medium weight yarn, most common for afghans and sweaters.",
+      "term_id": "WW"
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "difficulty": "2",
+      "category": "Other",
+      "question": "What does 'DK' stand for?",
+      "options": [
+        "DK Weight"
+      ],
+      "correct_answer": "DK Weight",
+      "explanation": "Light weight yarn, stands for Double Knitting.",
+      "term_id": "DK"
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "difficulty": "2",
+      "category": "Other",
+      "question": "What does 'GAUGE' stand for?",
+      "options": [
+        "Gauge"
+      ],
+      "correct_answer": "Gauge",
+      "explanation": "Number of stitches and rows per inch. Critical for proper sizing.",
+      "term_id": "GAUGE"
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "difficulty": "2",
+      "category": "Other",
+      "question": "What does 'REP' stand for?",
+      "options": [
+        "Repeat"
+      ],
+      "correct_answer": "Repeat",
+      "explanation": "Indicates a sequence of stitches to be repeated.",
+      "term_id": "REP"
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "difficulty": "2",
+      "category": "Other",
+      "question": "What does 'SP' stand for?",
+      "options": [
+        "Space"
+      ],
+      "correct_answer": "Space",
+      "explanation": "Gap between stitches where new stitches are worked.",
+      "term_id": "SP"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "difficulty": "3",
+      "category": "Shaping",
+      "question": "What does 'SK' stand for?",
+      "options": [
+        "Skip"
+      ],
+      "correct_answer": "Skip",
+      "explanation": "Intentionally omit working into a stitch or space.",
+      "term_id": "SK"
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "difficulty": "2",
+      "category": "Other",
+      "question": "What does 'TOG' stand for?",
+      "options": [
+        "Together"
+      ],
+      "correct_answer": "Together",
+      "explanation": "Working two or more stitches together as one.",
+      "term_id": "TOG"
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "difficulty": "4",
+      "category": "Other",
+      "question": "What does 'BLS' stand for?",
+      "options": [
+        "Broomstick Lace Stitch"
+      ],
+      "correct_answer": "Broomstick Lace Stitch",
+      "explanation": "Loops drawn up on large needle, then secured with single crochet.",
+      "term_id": "BLS"
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "difficulty": "4",
+      "category": "Other",
+      "question": "What does 'HPL' stand for?",
+      "options": [
+        "Hairpin Lace Join"
+      ],
+      "correct_answer": "Hairpin Lace Join",
+      "explanation": "Strips made on a hairpin loom and crocheted together.",
+      "term_id": "HPL"
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'DTR' stand for?",
+      "options": [
+        "Double Treble Crochet"
+      ],
+      "correct_answer": "Double Treble Crochet",
+      "explanation": "Very tall stitch with 2 yarn overs before inserting hook",
+      "term_id": "DTR"
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'TRTR' stand for?",
+      "options": [
+        "Triple Treble Crochet"
+      ],
+      "correct_answer": "Triple Treble Crochet",
+      "explanation": "Extremely tall stitch with 3 yarn overs",
+      "term_id": "TRTR"
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Technique",
+      "question": "What does 'YO' stand for?",
+      "options": [
+        "Yarn Over"
+      ],
+      "correct_answer": "Yarn Over",
+      "explanation": "Wrap yarn around hook - fundamental movement in crochet",
+      "term_id": "YO"
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "difficulty": "1",
+      "category": "Basic",
+      "question": "What does 'LOOP' stand for?",
+      "options": [
+        "Loop"
+      ],
+      "correct_answer": "Loop",
+      "explanation": "A loop of yarn on the hook",
+      "term_id": "LOOP"
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "difficulty": "2",
+      "category": "Pattern",
+      "question": "What does 'BEG' stand for?",
+      "options": [
+        "Beginning"
+      ],
+      "correct_answer": "Beginning",
+      "explanation": "Start of round or row",
+      "term_id": "BEG"
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "difficulty": "2",
+      "category": "Pattern",
+      "question": "What does 'CONT' stand for?",
+      "options": [
+        "Continue"
+      ],
+      "correct_answer": "Continue",
+      "explanation": "Continue in pattern as established",
+      "term_id": "CONT"
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "difficulty": "2",
+      "category": "Pattern",
+      "question": "What does 'RND' stand for?",
+      "options": [
+        "Round"
+      ],
+      "correct_answer": "Round",
+      "explanation": "Complete circle of stitches",
+      "term_id": "RND"
+    }
+  ]
+}
