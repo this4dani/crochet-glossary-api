@@ -147,7 +147,7 @@ function searchTerms(query, terms) {
 Contributing
 
 We welcome contributions to improve the glossary!Data Improvements
-Submit corrections via [suspicious link removed]
+Submit corrections via 
 Suggest new terms
 Report US/UK terminology differences
 Technical Contributions
@@ -161,16 +161,11 @@ Mobile Ready: Lightweight JSON, CORS enabled
 Fast: Served via GitHub CDN
 Reliable: 99.9% uptime via GitHub infrastructure
 Who's Using This API
-Pattern Websites: Adding glossary tooltips
-Mobile Apps: Offline crochet companions
-Educational Platforms: Interactive learning tools
-Browser Extensions: Instant term lookups
-WordPress Sites: Automated glossary features
 [Add your project here by submitting a PR!]License
 
 MIT License - feel free to use in any project, commercial or personal. Just include attribution.Support & Community
-Bug Reports: [suspicious link removed]
-Feature Requests: [suspicious link removed]
+Bug Reports: via GitHub
+Feature Requests:via GitHub
 Direct Contact: via GitHub
 Show Support: Star this repository!
 Related Projects
