@@ -1,0 +1,508 @@
+{
+  "name": "Crochet Master Challenge",
+  "description": "Mixed questions from all skill levels",
+  "total_questions": 50,
+  "total_points": 500,
+  "questions": [
+    {
+      "id": "def_BROOMSTICK",
+      "type": "definition",
+      "category": "hybrid",
+      "difficulty": "4",
+      "question": "Which stitch matches this description: Using large needle with crochet hook?",
+      "answer": "Broomstick Lace",
+      "term_id": "BROOMSTICK",
+      "points": 8
+    },
+    {
+      "id": "def_POP",
+      "type": "definition",
+      "category": "Texture",
+      "difficulty": "3",
+      "question": "Which stitch matches this description: Creates a puffed, round shape that stands out from the fabric.?",
+      "answer": "Popcorn Stitch",
+      "term_id": "POP",
+      "points": 8
+    },
+    {
+      "id": "symbol_chainless-foundation",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: chainless?",
+      "answer": "Chainless Foundation",
+      "term_id": "chainless-foundation",
+      "points": 10
+    },
+    {
+      "id": "def_CLONES",
+      "type": "definition",
+      "category": "lace",
+      "difficulty": "4",
+      "question": "Which stitch matches this description: Irish crochet padding stitch?",
+      "answer": "Clones Knot",
+      "term_id": "CLONES",
+      "points": 8
+    },
+    {
+      "id": "symbol_CL",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: cl?",
+      "answer": "Cluster Stitch",
+      "term_id": "CL",
+      "points": 10
+    },
+    {
+      "id": "def_cip",
+      "type": "definition",
+      "category": "slang",
+      "difficulty": "1",
+      "question": "Which stitch matches this description: Taking your crochet project out in public spaces?",
+      "answer": "Crochet In Public",
+      "term_id": "cip",
+      "points": 8
+    },
+    {
+      "id": "def_TRTR",
+      "type": "definition",
+      "category": "Basic",
+      "difficulty": "1",
+      "question": "Which stitch matches this description: Extremely tall stitch with 3 yarn overs?",
+      "answer": "Triple Treble Crochet",
+      "term_id": "TRTR",
+      "points": 8
+    },
+    {
+      "id": "def_STEAM-BLOCK",
+      "type": "definition",
+      "category": "finishing",
+      "difficulty": "3",
+      "question": "Which stitch matches this description: Using steam to set shape?",
+      "answer": "Steam Blocking",
+      "term_id": "STEAM-BLOCK",
+      "points": 8
+    },
+    {
+      "id": "symbol_JOINT",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: joint?",
+      "answer": "Joint Attachment",
+      "term_id": "JOINT",
+      "points": 10
+    },
+    {
+      "id": "def_FPTR",
+      "type": "definition",
+      "category": "Texture",
+      "difficulty": "3",
+      "question": "Which stitch matches this description: A tall stitch worked around the post from the front.?",
+      "answer": "Front Post Treble Crochet",
+      "term_id": "FPTR",
+      "points": 8
+    },
+    {
+      "id": "symbol_BLOCKING",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: block?",
+      "answer": "Blocking",
+      "term_id": "BLOCKING",
+      "points": 10
+    },
+    {
+      "id": "symbol_VIRUS",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: virus?",
+      "answer": "Virus Blanket/Shawl",
+      "term_id": "VIRUS",
+      "points": 10
+    },
+    {
+      "id": "symbol_BRUGES",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: bruges?",
+      "answer": "Bruges Lace",
+      "term_id": "BRUGES",
+      "points": 10
+    },
+    {
+      "id": "uk_ZIPPER",
+      "type": "terminology",
+      "category": "US_vs_UK",
+      "difficulty": "Intermediate",
+      "question": "What is the UK term for 'Zipper Installation'?",
+      "answer": "Zip Installation",
+      "term_id": "ZIPPER",
+      "points": 5
+    },
+    {
+      "id": "symbol_AMISH-KNOT",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: amish?",
+      "answer": "Amish Knot",
+      "term_id": "AMISH-KNOT",
+      "points": 10
+    },
+    {
+      "id": "uk_FHDC",
+      "type": "terminology",
+      "category": "US_vs_UK",
+      "difficulty": "Intermediate",
+      "question": "What is the UK term for 'Foundation Half Double Crochet'?",
+      "answer": "Foundation Half Treble",
+      "term_id": "FHDC",
+      "points": 5
+    },
+    {
+      "id": "symbol_JASMINE",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: jas?",
+      "answer": "Jasmine Stitch",
+      "term_id": "JASMINE",
+      "points": 10
+    },
+    {
+      "id": "symbol_THREAD-JOIN",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: tj?",
+      "answer": "Thread Join",
+      "term_id": "THREAD-JOIN",
+      "points": 10
+    },
+    {
+      "id": "uk_SUPER-BULKY",
+      "type": "terminology",
+      "category": "US_vs_UK",
+      "difficulty": "Intermediate",
+      "question": "What is the UK term for 'Super Bulky Weight'?",
+      "answer": "Super Chunky Weight",
+      "term_id": "SUPER-BULKY",
+      "points": 5
+    },
+    {
+      "id": "symbol_FROG",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: frog?",
+      "answer": "Frogging (rip it)",
+      "term_id": "FROG",
+      "points": 10
+    },
+    {
+      "id": "def_HAIRPIN",
+      "type": "definition",
+      "category": "hybrid",
+      "difficulty": "4",
+      "question": "Which stitch matches this description: Lace strips made on hairpin loom?",
+      "answer": "Hairpin Lace",
+      "term_id": "HAIRPIN",
+      "points": 8
+    },
+    {
+      "id": "symbol_LACET",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: lac?",
+      "answer": "Lacet Stitch",
+      "term_id": "LACET",
+      "points": 10
+    },
+    {
+      "id": "symbol_CLOSE",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: close?",
+      "answer": "Close Opening",
+      "term_id": "CLOSE",
+      "points": 10
+    },
+    {
+      "id": "uk_WORK-EVEN",
+      "type": "terminology",
+      "category": "US_vs_UK",
+      "difficulty": "Intermediate",
+      "question": "What is the UK term for 'Work Even'?",
+      "answer": "Work Straight",
+      "term_id": "WORK-EVEN",
+      "points": 5
+    },
+    {
+      "id": "def_BUTTONHOLE",
+      "type": "definition",
+      "category": "construction",
+      "difficulty": "2",
+      "question": "Which stitch matches this description: Worked-in button opening?",
+      "answer": "Buttonhole",
+      "term_id": "BUTTONHOLE",
+      "points": 8
+    },
+    {
+      "id": "symbol_TCOLOR",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: tcol?",
+      "answer": "Tunisian Color Change",
+      "term_id": "TCOLOR",
+      "points": 10
+    },
+    {
+      "id": "uk_PERFECT-CHANGE",
+      "type": "terminology",
+      "category": "US_vs_UK",
+      "difficulty": "Intermediate",
+      "question": "What is the UK term for 'Perfect Color Change'?",
+      "answer": "Perfect Colour Change",
+      "term_id": "PERFECT-CHANGE",
+      "points": 5
+    },
+    {
+      "id": "def_STEEK",
+      "type": "definition",
+      "category": "garment",
+      "difficulty": "2",
+      "question": "Which stitch matches this description: Extra stitches for cutting openings?",
+      "answer": "Steek",
+      "term_id": "STEEK",
+      "points": 8
+    },
+    {
+      "id": "def_DK",
+      "type": "definition",
+      "category": "Other",
+      "difficulty": "2",
+      "question": "Which stitch matches this description: Light weight yarn, stands for Double Knitting.?",
+      "answer": "DK Weight",
+      "term_id": "DK",
+      "points": 8
+    },
+    {
+      "id": "def_ALPINE",
+      "type": "definition",
+      "category": "specialty",
+      "difficulty": "3",
+      "question": "Which stitch matches this description: Creates raised X pattern texture?",
+      "answer": "Alpine Stitch",
+      "term_id": "ALPINE",
+      "points": 8
+    },
+    {
+      "id": "def_VST",
+      "type": "definition",
+      "category": "Other",
+      "difficulty": "3",
+      "question": "Which stitch matches this description: Two stitches worked in the same space, forming a V-shape.?",
+      "answer": "V-Stitch",
+      "term_id": "VST",
+      "points": 8
+    },
+    {
+      "id": "symbol_YARN-DIET",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: diet?",
+      "answer": "Yarn Diet",
+      "term_id": "YARN-DIET",
+      "points": 10
+    },
+    {
+      "id": "def_SPIKE-COLOR",
+      "type": "definition",
+      "category": "colorwork",
+      "difficulty": "3",
+      "question": "Which stitch matches this description: Color changes with spike stitches?",
+      "answer": "Spike Stitch Colorwork",
+      "term_id": "SPIKE-COLOR",
+      "points": 8
+    },
+    {
+      "id": "def_HERRINGBONE",
+      "type": "definition",
+      "category": "specialty",
+      "difficulty": "3",
+      "question": "Which stitch matches this description: Creates diagonal zigzag pattern?",
+      "answer": "Herringbone Stitch",
+      "term_id": "HERRINGBONE",
+      "points": 8
+    },
+    {
+      "id": "def_APPLIQUE",
+      "type": "definition",
+      "category": "embellishment",
+      "difficulty": "2",
+      "question": "Which stitch matches this description: Attaching separate motifs to base?",
+      "answer": "Applique",
+      "term_id": "APPLIQUE",
+      "points": 8
+    },
+    {
+      "id": "symbol_GAUGE",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: gauge?",
+      "answer": "Gauge",
+      "term_id": "GAUGE",
+      "points": 10
+    },
+    {
+      "id": "def_EMB",
+      "type": "definition",
+      "category": "amigurumi",
+      "difficulty": "2",
+      "question": "Which stitch matches this description: Adding embroidered details?",
+      "answer": "Surface Embroidery",
+      "term_id": "EMB",
+      "points": 8
+    },
+    {
+      "id": "symbol_GRADIENT",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: grad?",
+      "answer": "Gradient Technique",
+      "term_id": "GRADIENT",
+      "points": 10
+    },
+    {
+      "id": "def_SURFACE-CHAIN",
+      "type": "definition",
+      "category": "embellishment",
+      "difficulty": "2",
+      "question": "Which stitch matches this description: Chain stitch embroidery on crochet?",
+      "answer": "Surface Chain",
+      "term_id": "SURFACE-CHAIN",
+      "points": 8
+    },
+    {
+      "id": "def_WORK-EVEN",
+      "type": "definition",
+      "category": "pattern",
+      "difficulty": "2",
+      "question": "Which stitch matches this description: Continue without shaping?",
+      "answer": "Work Even",
+      "term_id": "WORK-EVEN",
+      "points": 8
+    },
+    {
+      "id": "symbol_STITCH-MARKER",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: sm?",
+      "answer": "Stitch Marker",
+      "term_id": "STITCH-MARKER",
+      "points": 10
+    },
+    {
+      "id": "def_FINGERING",
+      "type": "definition",
+      "category": "yarn",
+      "difficulty": "2",
+      "question": "Which stitch matches this description: Super fine weight yarn, often used for socks?",
+      "answer": "Fingering Weight",
+      "term_id": "FINGERING",
+      "points": 8
+    },
+    {
+      "id": "symbol_BEG",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: →?",
+      "answer": "Beginning",
+      "term_id": "BEG",
+      "points": 10
+    },
+    {
+      "id": "symbol_BOBBLE",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: bo?",
+      "answer": "Bobble Stitch",
+      "term_id": "BOBBLE",
+      "points": 10
+    },
+    {
+      "id": "symbol_SP",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: sp?",
+      "answer": "Space",
+      "term_id": "SP",
+      "points": 10
+    },
+    {
+      "id": "symbol_BUTTONHOLE",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: bh?",
+      "answer": "Buttonhole",
+      "term_id": "BUTTONHOLE",
+      "points": 10
+    },
+    {
+      "id": "symbol_SOL",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: sol?",
+      "answer": "Solomon's Knot",
+      "term_id": "SOL",
+      "points": 10
+    },
+    {
+      "id": "def_GRADIENT",
+      "type": "definition",
+      "category": "colorwork",
+      "difficulty": "4",
+      "question": "Which stitch matches this description: Blending multiple colors?",
+      "answer": "Gradient Technique",
+      "term_id": "GRADIENT",
+      "points": 8
+    },
+    {
+      "id": "symbol_BASKET-WEAVE",
+      "type": "symbol",
+      "category": "Symbols",
+      "difficulty": "Advanced",
+      "question": "What stitch does this symbol represent: bw?",
+      "answer": "Basketweave Stitch",
+      "term_id": "BASKET-WEAVE",
+      "points": 10
+    },
+    {
+      "id": "def_TBLO",
+      "type": "definition",
+      "category": "tunisian",
+      "difficulty": "3",
+      "question": "Which stitch matches this description: Working in back loops only?",
+      "answer": "Tunisian Back Loop Only",
+      "term_id": "TBLO",
+      "points": 8
+    }
+  ]
+}

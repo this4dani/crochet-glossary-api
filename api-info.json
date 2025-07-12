@@ -1,16 +1,19 @@
 {
-  "name": "Crochet Glossary API",
-  "description": "Comprehensive crochet terminology and quiz data",
-  "version": "1.0.0",
+  "name": "DANI's Crochet Glossary API",
+  "version": "1.0",
+  "description": "Comprehensive crochet terminology API with instructions",
   "endpoints": {
-    "glossary.json": "Complete glossary with search index",
-    "terms.json": "Terms only (lighter)",
-    "categories.json": "Terms grouped by category",
-    "quiz.json": "Quiz questions and answers"
+    "terms.json": "Lightweight list of all terms",
+    "glossary.json": "Complete glossary with full data",
+    "categories.json": "Terms organized by category",
+    "quiz.json": "Quiz questions and answers",
+    "api-info.json": "This documentation"
   },
-  "usage": {
-    "base_url": "https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/",
-    "example": "https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/terms.json"
+  "base_url": "https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/",
+  "example_usage": {
+    "get_all_terms": "curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/terms.json",
+    "get_complete_data": "curl https://raw.githubusercontent.com/this4dani/crochet-glossary-api/main/glossary.json"
   },
-  "last_updated": "2025-07-11T01:16:57.313303"
+  "total_terms": 255,
+  "terms_with_instructions": 4
 }
