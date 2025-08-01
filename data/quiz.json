@@ -1,0 +1,1098 @@
+{
+  "version": "1.0",
+  "generated": "2025-07-12",
+  "total_packages": 4,
+  "packages": {
+    "beginner_pack": {
+      "name": "Beginner Crochet Quiz",
+      "description": "Basic stitches and abbreviations",
+      "total_questions": 0,
+      "total_points": 0,
+      "questions": []
+    },
+    "intermediate_pack": {
+      "name": "Intermediate Crochet Quiz",
+      "description": "US vs UK terms and complex stitches",
+      "total_questions": 42,
+      "total_points": 210,
+      "questions": [
+        {
+          "id": "uk_SC",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Single Crochet'?",
+          "answer": "Double Crochet",
+          "term_id": "SC",
+          "points": 5
+        },
+        {
+          "id": "uk_HDC",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Half Double Crochet'?",
+          "answer": "Half Treble Crochet",
+          "term_id": "HDC",
+          "points": 5
+        },
+        {
+          "id": "uk_DC",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Double Crochet'?",
+          "answer": "Treble Crochet",
+          "term_id": "DC",
+          "points": 5
+        },
+        {
+          "id": "uk_TR",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Treble Crochet'?",
+          "answer": "Double Treble Crochet",
+          "term_id": "TR",
+          "points": 5
+        },
+        {
+          "id": "uk_SC2TOG",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Single Crochet Two Together'?",
+          "answer": "Double Crochet Two Together",
+          "term_id": "SC2TOG",
+          "points": 5
+        },
+        {
+          "id": "uk_DC2TOG",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Double Crochet Two Together'?",
+          "answer": "Treble Crochet Two Together",
+          "term_id": "DC2TOG",
+          "points": 5
+        },
+        {
+          "id": "uk_FSC",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Foundation Single Crochet'?",
+          "answer": "Foundation Double Crochet",
+          "term_id": "FSC",
+          "points": 5
+        },
+        {
+          "id": "uk_FHDC",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Foundation Half Double Crochet'?",
+          "answer": "Foundation Half Treble",
+          "term_id": "FHDC",
+          "points": 5
+        },
+        {
+          "id": "uk_FPDC",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Front Post Double Crochet'?",
+          "answer": "Front Post Treble Crochet",
+          "term_id": "FPDC",
+          "points": 5
+        },
+        {
+          "id": "uk_BPDC",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Back Post Double Crochet'?",
+          "answer": "Back Post Treble Crochet",
+          "term_id": "BPDC",
+          "points": 5
+        },
+        {
+          "id": "uk_FPTR",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Front Post Treble Crochet'?",
+          "answer": "Front Post Double Treble",
+          "term_id": "FPTR",
+          "points": 5
+        },
+        {
+          "id": "uk_BPTR",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Back Post Treble Crochet'?",
+          "answer": "Back Post Double Treble",
+          "term_id": "BPTR",
+          "points": 5
+        },
+        {
+          "id": "uk_XST",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Crossed Double Crochet'?",
+          "answer": "Crossed Treble Crochet",
+          "term_id": "XST",
+          "points": 5
+        },
+        {
+          "id": "uk_EXDC",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Extended Double Crochet'?",
+          "answer": "Extended Treble Crochet",
+          "term_id": "EXDC",
+          "points": 5
+        },
+        {
+          "id": "uk_MOSS",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Moss Stitch'?",
+          "answer": "Linen Stitch",
+          "term_id": "MOSS",
+          "points": 5
+        },
+        {
+          "id": "uk_WW",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Worsted Weight'?",
+          "answer": "Aran Weight",
+          "term_id": "WW",
+          "points": 5
+        },
+        {
+          "id": "uk_GAUGE",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Gauge'?",
+          "answer": "Tension",
+          "term_id": "GAUGE",
+          "points": 5
+        },
+        {
+          "id": "uk_SK",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Skip'?",
+          "answer": "Miss",
+          "term_id": "SK",
+          "points": 5
+        },
+        {
+          "id": "uk_DTR",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Double Treble Crochet'?",
+          "answer": "Triple Treble Crochet",
+          "term_id": "DTR",
+          "points": 5
+        },
+        {
+          "id": "uk_TRTR",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Triple Treble Crochet'?",
+          "answer": "Quadruple Treble Crochet",
+          "term_id": "TRTR",
+          "points": 5
+        },
+        {
+          "id": "uk_YO",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Yarn Over'?",
+          "answer": "Yarn Over Hook",
+          "term_id": "YO",
+          "points": 5
+        },
+        {
+          "id": "uk_WEAVE",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Weave in Ends'?",
+          "answer": "Sew in Ends",
+          "term_id": "WEAVE",
+          "points": 5
+        },
+        {
+          "id": "uk_BO",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Bind Off'?",
+          "answer": "Cast Off",
+          "term_id": "BO",
+          "points": 5
+        },
+        {
+          "id": "uk_TBO",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Tunisian Bind Off'?",
+          "answer": "Tunisian Cast Off",
+          "term_id": "TBO",
+          "points": 5
+        },
+        {
+          "id": "uk_TCOLOR",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Tunisian Color Change'?",
+          "answer": "Tunisian Colour Change",
+          "term_id": "TCOLOR",
+          "points": 5
+        }
+      ]
+    },
+    "advanced_pack": {
+      "name": "Advanced Crochet Quiz",
+      "description": "Symbols, complex techniques, and expert knowledge",
+      "total_questions": 299,
+      "total_points": 2990,
+      "questions": [
+        {
+          "id": "symbol_SN",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: sn?",
+          "answer": "Slip Knot",
+          "term_id": "SN",
+          "points": 10
+        },
+        {
+          "id": "symbol_CH",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: o?",
+          "answer": "Chain Stitch",
+          "term_id": "CH",
+          "points": 10
+        },
+        {
+          "id": "symbol_SLST",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: -?",
+          "answer": "Slip Stitch",
+          "term_id": "SLST",
+          "points": 10
+        },
+        {
+          "id": "symbol_SC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: x?",
+          "answer": "Single Crochet",
+          "term_id": "SC",
+          "points": 10
+        },
+        {
+          "id": "symbol_HDC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: H?",
+          "answer": "Half Double Crochet",
+          "term_id": "HDC",
+          "points": 10
+        },
+        {
+          "id": "symbol_DC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: T?",
+          "answer": "Double Crochet",
+          "term_id": "DC",
+          "points": 10
+        },
+        {
+          "id": "symbol_TR",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: TT?",
+          "answer": "Treble Crochet",
+          "term_id": "TR",
+          "points": 10
+        },
+        {
+          "id": "symbol_INC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: +?",
+          "answer": "Increase",
+          "term_id": "INC",
+          "points": 10
+        },
+        {
+          "id": "symbol_DEC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: -dec?",
+          "answer": "Decrease",
+          "term_id": "DEC",
+          "points": 10
+        },
+        {
+          "id": "symbol_SC2TOG",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: sc2tog?",
+          "answer": "Single Crochet Two Together",
+          "term_id": "SC2TOG",
+          "points": 10
+        },
+        {
+          "id": "symbol_DC2TOG",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: dc2tog?",
+          "answer": "Double Crochet Two Together",
+          "term_id": "DC2TOG",
+          "points": 10
+        },
+        {
+          "id": "symbol_INVDEC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: invdec?",
+          "answer": "Invisible Decrease",
+          "term_id": "INVDEC",
+          "points": 10
+        },
+        {
+          "id": "symbol_MR",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: mr?",
+          "answer": "Magic Ring",
+          "term_id": "MR",
+          "points": 10
+        },
+        {
+          "id": "symbol_FSC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: fsc?",
+          "answer": "Foundation Single Crochet",
+          "term_id": "FSC",
+          "points": 10
+        },
+        {
+          "id": "symbol_FHDC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: fhdc?",
+          "answer": "Foundation Half Double Crochet",
+          "term_id": "FHDC",
+          "points": 10
+        },
+        {
+          "id": "symbol_BLO",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: blo?",
+          "answer": "Back Loop Only",
+          "term_id": "BLO",
+          "points": 10
+        },
+        {
+          "id": "symbol_FLO",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: flo?",
+          "answer": "Front Loop Only",
+          "term_id": "FLO",
+          "points": 10
+        },
+        {
+          "id": "symbol_FPDC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: fpdc?",
+          "answer": "Front Post Double Crochet",
+          "term_id": "FPDC",
+          "points": 10
+        },
+        {
+          "id": "symbol_BPDC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: bpdc?",
+          "answer": "Back Post Double Crochet",
+          "term_id": "BPDC",
+          "points": 10
+        },
+        {
+          "id": "symbol_FPTR",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: fptr?",
+          "answer": "Front Post Treble Crochet",
+          "term_id": "FPTR",
+          "points": 10
+        },
+        {
+          "id": "symbol_BPTR",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: bptr?",
+          "answer": "Back Post Treble Crochet",
+          "term_id": "BPTR",
+          "points": 10
+        },
+        {
+          "id": "symbol_POP",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: pc?",
+          "answer": "Popcorn Stitch",
+          "term_id": "POP",
+          "points": 10
+        },
+        {
+          "id": "symbol_BOBBLE",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: bo?",
+          "answer": "Bobble Stitch",
+          "term_id": "BOBBLE",
+          "points": 10
+        },
+        {
+          "id": "symbol_PUFF",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: pf?",
+          "answer": "Puff Stitch",
+          "term_id": "PUFF",
+          "points": 10
+        },
+        {
+          "id": "symbol_CL",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: cl?",
+          "answer": "Cluster Stitch",
+          "term_id": "CL",
+          "points": 10
+        },
+        {
+          "id": "symbol_VST",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: V?",
+          "answer": "V-Stitch",
+          "term_id": "VST",
+          "points": 10
+        },
+        {
+          "id": "symbol_SHELL",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: Sh?",
+          "answer": "Shell Stitch",
+          "term_id": "SHELL",
+          "points": 10
+        },
+        {
+          "id": "symbol_GRANNY",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: gs?",
+          "answer": "Granny Square",
+          "term_id": "GRANNY",
+          "points": 10
+        },
+        {
+          "id": "symbol_XST",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: X?",
+          "answer": "Crossed Double Crochet",
+          "term_id": "XST",
+          "points": 10
+        },
+        {
+          "id": "symbol_SPK",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: spk?",
+          "answer": "Spike Stitch",
+          "term_id": "SPK",
+          "points": 10
+        }
+      ]
+    },
+    "master_challenge": {
+      "name": "Crochet Master Challenge",
+      "description": "Mixed questions from all skill levels",
+      "total_questions": 50,
+      "total_points": 500,
+      "questions": [
+        {
+          "id": "def_HOTH",
+          "type": "definition",
+          "category": "slang",
+          "difficulty": "2",
+          "question": "Which stitch matches this description: Hot Off The Hook?",
+          "answer": "HOTH",
+          "term_id": "HOTH",
+          "points": 8
+        },
+        {
+          "id": "def_YARN-CHICKEN",
+          "type": "definition",
+          "category": "troubleshooting",
+          "difficulty": "2",
+          "question": "Which stitch matches this description: Hoping to finish before yarn runs out?",
+          "answer": "Yarn Chicken",
+          "term_id": "YARN-CHICKEN",
+          "points": 8
+        },
+        {
+          "id": "symbol_PM",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: M?",
+          "answer": "Place Marker",
+          "term_id": "PM",
+          "points": 10
+        },
+        {
+          "id": "uk_TCOLOR",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Tunisian Color Change'?",
+          "answer": "Tunisian Colour Change",
+          "term_id": "TCOLOR",
+          "points": 5
+        },
+        {
+          "id": "symbol_PERUVIAN-BRAID",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: pbraid?",
+          "answer": "Peruvian Braid",
+          "term_id": "PERUVIAN-BRAID",
+          "points": 10
+        },
+        {
+          "id": "symbol_HOOKLIFE",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: 🪝❤️?",
+          "answer": "Hook Life",
+          "term_id": "HOOKLIFE",
+          "points": 10
+        },
+        {
+          "id": "def_VST",
+          "type": "definition",
+          "category": "Other",
+          "difficulty": "3",
+          "question": "Which stitch matches this description: Two stitches worked in the same space, forming a V-shape.?",
+          "answer": "V-Stitch",
+          "term_id": "VST",
+          "points": 8
+        },
+        {
+          "id": "symbol_FINGERING",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: 1?",
+          "answer": "Fingering Weight",
+          "term_id": "FINGERING",
+          "points": 10
+        },
+        {
+          "id": "def_UNBOXING",
+          "type": "definition",
+          "category": "Social",
+          "difficulty": "1",
+          "question": "Which stitch matches this description: Filming yourself opening new yarn purchases, popular TikTok content.?",
+          "answer": "Yarn Unboxing",
+          "term_id": "UNBOXING",
+          "points": 8
+        },
+        {
+          "id": "symbol_TUNISIAN-HOOK",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: thook?",
+          "answer": "Tunisian Hook",
+          "term_id": "TUNISIAN-HOOK",
+          "points": 10
+        },
+        {
+          "id": "def_SOL",
+          "type": "definition",
+          "category": "Other",
+          "difficulty": "4",
+          "question": "Which stitch matches this description: Large openwork knot made from elongated chains, also called Lover's Knot.?",
+          "answer": "Solomon's Knot",
+          "term_id": "SOL",
+          "points": 8
+        },
+        {
+          "id": "symbol_FELTING",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: felt?",
+          "answer": "Felting",
+          "term_id": "FELTING",
+          "points": 10
+        },
+        {
+          "id": "symbol_TINC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: tinc?",
+          "answer": "Tunisian Increase",
+          "term_id": "TINC",
+          "points": 10
+        },
+        {
+          "id": "def_TRTR",
+          "type": "definition",
+          "category": "Basic",
+          "difficulty": "1",
+          "question": "Which stitch matches this description: Extremely tall stitch with 3 yarn overs?",
+          "answer": "Triple Treble Crochet",
+          "term_id": "TRTR",
+          "points": 8
+        },
+        {
+          "id": "uk_PERFECT-CHANGE",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Perfect Color Change'?",
+          "answer": "Perfect Colour Change",
+          "term_id": "PERFECT-CHANGE",
+          "points": 5
+        },
+        {
+          "id": "symbol_CYLINDER",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: cyl?",
+          "answer": "Cylinder Pattern",
+          "term_id": "CYLINDER",
+          "points": 10
+        },
+        {
+          "id": "symbol_GAUGE",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: gauge?",
+          "answer": "Gauge",
+          "term_id": "GAUGE",
+          "points": 10
+        },
+        {
+          "id": "def_EASE",
+          "type": "definition",
+          "category": "pattern",
+          "difficulty": "2",
+          "question": "Which stitch matches this description: Extra room in garment?",
+          "answer": "Ease",
+          "term_id": "EASE",
+          "points": 8
+        },
+        {
+          "id": "symbol_PDF",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: 📄?",
+          "answer": "PDF Pattern",
+          "term_id": "PDF",
+          "points": 10
+        },
+        {
+          "id": "symbol_LACE-WT",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: 0?",
+          "answer": "Lace Weight",
+          "term_id": "LACE-WT",
+          "points": 10
+        },
+        {
+          "id": "symbol_EMB",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: emb?",
+          "answer": "Surface Embroidery",
+          "term_id": "EMB",
+          "points": 10
+        },
+        {
+          "id": "symbol_GOLDEN-RATIO",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: golden?",
+          "answer": "Golden Ratio",
+          "term_id": "GOLDEN-RATIO",
+          "points": 10
+        },
+        {
+          "id": "symbol_CROCHETGIRLIE",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: 👧🧶?",
+          "answer": "Crochet Girlie",
+          "term_id": "CROCHETGIRLIE",
+          "points": 10
+        },
+        {
+          "id": "symbol_DIAMOND",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: diam?",
+          "answer": "Diamond Stitch",
+          "term_id": "DIAMOND",
+          "points": 10
+        },
+        {
+          "id": "symbol_TASSEL",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: tassel?",
+          "answer": "Tassel",
+          "term_id": "TASSEL",
+          "points": 10
+        },
+        {
+          "id": "symbol_CAL",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: CAL?",
+          "answer": "Crochet Along",
+          "term_id": "CAL",
+          "points": 10
+        },
+        {
+          "id": "uk_BULKY",
+          "type": "terminology",
+          "category": "US_vs_UK",
+          "difficulty": "Intermediate",
+          "question": "What is the UK term for 'Bulky Weight'?",
+          "answer": "Chunky Weight",
+          "term_id": "BULKY",
+          "points": 5
+        },
+        {
+          "id": "def_CONT",
+          "type": "definition",
+          "category": "Pattern",
+          "difficulty": "2",
+          "question": "Which stitch matches this description: Continue in pattern as established?",
+          "answer": "Continue",
+          "term_id": "CONT",
+          "points": 8
+        },
+        {
+          "id": "symbol_RATIOINC",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: 📊?",
+          "answer": "Ratio Increase",
+          "term_id": "RATIOINC",
+          "points": 10
+        },
+        {
+          "id": "def_RUFFLE",
+          "type": "definition",
+          "category": "construction",
+          "difficulty": "2",
+          "question": "Which stitch matches this description: Gathered edge treatment?",
+          "answer": "Ruffle Edge",
+          "term_id": "RUFFLE",
+          "points": 8
+        },
+        {
+          "id": "symbol_GRANNY",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: gs?",
+          "answer": "Granny Square",
+          "term_id": "GRANNY",
+          "points": 10
+        },
+        {
+          "id": "def_FRACTAL",
+          "type": "definition",
+          "category": "mathematical",
+          "difficulty": "2",
+          "question": "Which stitch matches this description: Mathematical patterns creating fractals?",
+          "answer": "Fractal Crochet",
+          "term_id": "FRACTAL",
+          "points": 8
+        },
+        {
+          "id": "symbol_SLST",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: -?",
+          "answer": "Slip Stitch",
+          "term_id": "SLST",
+          "points": 10
+        },
+        {
+          "id": "mc_SLST",
+          "type": "multiple_choice",
+          "category": "Basic",
+          "difficulty": "1",
+          "question": "What is the correct instruction for Slip Stitch?",
+          "choices": [
+            "yarn over, pull through loop",
+            "insert hook, yarn over, pull loop or all loops",
+            "yarn over, insert hook, pull through stitch, yarn over pull through two loops, yarn over, pull through remaining loops",
+            "Place hook on top of yarn, circle hook around to grab yarn, yarn over, pull through loop"
+          ],
+          "correct_answer": "insert hook, yarn over, pull loop or all loops",
+          "term_id": "SLST",
+          "points": 15
+        },
+        {
+          "id": "symbol_TENSION-RING",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: tring?",
+          "answer": "Tension Ring",
+          "term_id": "TENSION-RING",
+          "points": 10
+        },
+        {
+          "id": "def_HAIRPIN",
+          "type": "definition",
+          "category": "hybrid",
+          "difficulty": "5",
+          "question": "Which stitch matches this description: Lace strips made on hairpin loom?",
+          "answer": "Hairpin Lace",
+          "term_id": "HAIRPIN",
+          "points": 8
+        },
+        {
+          "id": "symbol_MANDALA",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: mand?",
+          "answer": "Mandala",
+          "term_id": "MANDALA",
+          "points": 10
+        },
+        {
+          "id": "symbol_TBO",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: tbo?",
+          "answer": "Tunisian Bind Off",
+          "term_id": "TBO",
+          "points": 10
+        },
+        {
+          "id": "symbol_POOLING",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: pool?",
+          "answer": "Color Pooling",
+          "term_id": "POOLING",
+          "points": 10
+        },
+        {
+          "id": "def_FASTEN",
+          "type": "definition",
+          "category": "Basic",
+          "difficulty": "1",
+          "question": "Which stitch matches this description: Secures the final stitch and cuts the yarn.?",
+          "answer": "Fasten Off",
+          "term_id": "FASTEN",
+          "points": 8
+        },
+        {
+          "id": "symbol_SURFACE-SLIP",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: sslip?",
+          "answer": "Surface Slip Stitch",
+          "term_id": "SURFACE-SLIP",
+          "points": 10
+        },
+        {
+          "id": "def_CURLING-EDGE",
+          "type": "definition",
+          "category": "troubleshooting",
+          "difficulty": "2",
+          "question": "Which stitch matches this description: Edges that roll or curl?",
+          "answer": "Curling Edge",
+          "term_id": "CURLING-EDGE",
+          "points": 8
+        },
+        {
+          "id": "def_TRS",
+          "type": "definition",
+          "category": "tunisian",
+          "difficulty": "5",
+          "question": "Which stitch matches this description: Creates pronounced vertical ridges?",
+          "answer": "Tunisian Reverse Stitch",
+          "term_id": "TRS",
+          "points": 8
+        },
+        {
+          "id": "symbol_PLY",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: ply?",
+          "answer": "Ply",
+          "term_id": "PLY",
+          "points": 10
+        },
+        {
+          "id": "symbol_cip",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: CIP?",
+          "answer": "Crochet In Public",
+          "term_id": "cip",
+          "points": 10
+        },
+        {
+          "id": "symbol_BRUGES",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: bruges?",
+          "answer": "Bruges Lace",
+          "term_id": "BRUGES",
+          "points": 10
+        },
+        {
+          "id": "symbol_JOINT",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: joint?",
+          "answer": "Joint Attachment",
+          "term_id": "JOINT",
+          "points": 10
+        },
+        {
+          "id": "def_YO",
+          "type": "definition",
+          "category": "Technique",
+          "difficulty": "1",
+          "question": "Which stitch matches this description: Wrap yarn around hook - fundamental movement in crochet?",
+          "answer": "Yarn Over",
+          "term_id": "YO",
+          "points": 8
+        },
+        {
+          "id": "def_PINEAPPLE",
+          "type": "definition",
+          "category": "vintage",
+          "difficulty": "4",
+          "question": "Which stitch matches this description: Traditional lace motif resembling pineapple?",
+          "answer": "Pineapple Stitch",
+          "term_id": "PINEAPPLE",
+          "points": 8
+        },
+        {
+          "id": "symbol_RUSSIAN-JOIN",
+          "type": "symbol",
+          "category": "Symbols",
+          "difficulty": "Advanced",
+          "question": "What stitch does this symbol represent: rjoin?",
+          "answer": "Russian Join",
+          "term_id": "RUSSIAN-JOIN",
+          "points": 10
+        }
+      ]
+    }
+  },
+  "api_info": {
+    "description": "Crochet quiz system with multiple difficulty levels",
+    "usage": "Select a package and present questions to users"
+  }
+}

@@ -8,6 +8,30 @@ import json
 import random
 from typing import List, Dict
 
+def check_if_update_needed():
+    """Check if quiz files need updating based on glossary.json timestamp"""
+    try:
+        import os
+        glossary_time = os.path.getmtime('../glossary.json')
+        quiz_file = '../data/quizzes/intermediate_pack.json'
+        
+        if os.path.exists(quiz_file):
+            quiz_time = os.path.getmtime(quiz_file)
+            if quiz_time >= glossary_time:
+                print("📋 Quiz files are up-to-date, skipping generation")
+                return False
+        
+        print("🔄 Glossary data is newer, regenerating quizzes...")
+        return True
+        
+    except Exception as e:
+        print(f"Timestamp check failed: {e}")
+        return True
+
+if __name__ == "__main__":
+    if not check_if_update_needed():
+        exit(0)
+
 def load_glossary_data():
     """Load the complete glossary data"""
     try:

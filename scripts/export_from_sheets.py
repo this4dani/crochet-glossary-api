@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """
 Export crochet glossary data from Google Sheets to JSON API files
-Includes Column H (Instruction) data
+Auto-detects all columns and maps them to appropriate API field names
 """
 
 import json
 import os
+import subprocess
+from datetime import datetime
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 
@@ -56,20 +58,44 @@ def create_api_files(headers, data_rows):
             return row[idx] if idx >= 0 and idx < len(row) else default
         
         # Create term object
-        term = {
-            "id": get_cell("ID"),
-            "name_us": get_cell("Name_US"),
-            "name_uk": get_cell("Name_UK", get_cell("Name_US")),
-            "abbreviation_us": get_cell("Abbrev_US"),
-            "abbreviation_uk": get_cell("Abbrev_UK"),
-            "symbol": get_cell("Symbol"),
-            "category": get_cell("Category", "Basic"),
-            "description": get_cell("Description"),
-            "instruction": get_cell("Instruction"),  # Column H
-            "tags": get_cell("Tags", "").split(",") if get_cell("Tags") else [],
-            "difficulty": get_cell("Difficulty", "Beginner"),
-            "status": get_cell("Status", "Active")
+        term = {}
+
+        # Essential fields with specific handling
+        term["id"] = get_cell("ID")
+        term["name_us"] = get_cell("Name_US") 
+        term["name_uk"] = get_cell("Name_UK", get_cell("Name_US"))
+
+        # Complete field mapping: Google Sheets → API field names
+        field_mapping = {
+            "Status": "status",
+            "Symbol": "symbol", 
+            "Category": "category",
+            "Tags": "tags",
+            "Description": "description",
+            "Priority": "priority",
+            "Difficulty": "difficulty",
+            "Instruction": "instruction",
+            "Time_To_Learn": "estimated_learning_time",
+            "Best_For": "best_use_cases", 
+            "Common_Mistakes": "common_mistakes",
+            "Pro_Tips": "pro_tips",
+            "Hook_Sizes": "hook_sizes",
+            "Left_Handed_Note": "left_handed_note",
+            "Abbrev_US": "abbreviation_us",
+            "Abbrev_UK": "abbreviation_uk"
         }
+
+        # Auto-capture ALL other columns from Google Sheets
+        for header in headers:
+            if header not in ["ID", "Name_US", "Name_UK"]:
+                api_field = field_mapping.get(header, header.lower())
+                term[api_field] = get_cell(header)
+
+        # Special processing for tags array
+        if "tags" in term and term["tags"]:
+            term["tags"] = [tag.strip() for tag in term["tags"].split(",")]
+        elif "tags" in term:
+            term["tags"] = []
         
         # Clean up tags
         term["tags"] = [tag.strip() for tag in term["tags"] if tag.strip()]
@@ -108,7 +134,7 @@ def create_api_files(headers, data_rows):
     # Create glossary.json (complete)
     glossary_complete = {
         "version": "1.0",
-        "last_updated": "2025-07-12",
+        "last_updated": datetime.now().isoformat(),
         "total_terms": len(terms_data),
         "terms": terms_data,
         "search_index": list(set([
@@ -192,3 +218,24 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+    # Auto-update dependent scripts if data changed
+    try:
+        # Get glossary.json modification time
+        glossary_mtime = os.path.getmtime('glossary.json')
+        quiz_file = 'data/quizzes/beginner.json'
+        
+        # Check if quiz files need updating
+        if not os.path.exists(quiz_file) or os.path.getmtime(quiz_file) < glossary_mtime:
+            print("\n🔄 Data updated - auto-generating quizzes...")
+            result = subprocess.run(['python', 'generate_quizzes.py'], 
+                                  capture_output=True, text=True)
+            if result.returncode == 0:
+                print("✅ Quizzes updated automatically")
+            else:
+                print(f"❌ Quiz generation failed: {result.stderr}")
+        else:
+            print("\n✅ Quizzes are up to date")
+            
+    except Exception as e:
+        print(f"\n⚠️ Auto-update check failed: {e}")
